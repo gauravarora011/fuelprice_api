@@ -1,0 +1,1421 @@
+<!DOCTYPE html>
+<head id="Head1">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <!--  importing stylesheet -->
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <!--  importing stylesheet -->
+   <link rel="stylesheet" type="text/css" href="/style/all.20170619.min.css" />
+   <link rel="stylesheet" href="../style/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Diesel/Gas oil : Diesel Engine Oil : Essential Oils</title>
+   <meta name="keywords" content="Engine Oil, Diesel Engine Oil, Synthetic Engine Oil, Oil Industry, Oil and Gas, Oil Exploration, Oil Price, Oil Engineering, Essential Oils, Jet Fuel." />
+   <meta name="description" content="IndianOil’s cross-country network of crude Oil and product pipelines is spread over 10,000 Km. The Corporation handles the largest network of petrol and diesel stations in the country." />
+   <meta name="GENERATOR" content="Microsoft FrontPage 5.0" />
+   <meta name="CODE_LANGUAGE" content="C#" />
+   <meta name="vs_defaultClientScript" content="JavaScript" />
+   <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" />
+   <!--  importing stylesheet -->
+</head>
+<body>
+   <form method="get" action="../Interface/SearchResult.aspx" id="search">
+      <div>
+         <div id="header">
+            <!--  content -->
+            <div class="content">
+               <!--  header left  -->
+               <div class="header-left">
+                  <!-- Logo-->
+                  <div id="logo">
+                     <a href="/home.aspx">  <img src="/images/site/ico_new_logo-final.gif" alt="Indian Oil"
+                        title="Indian Oil" /></a>
+                  </div>
+                  <!-- eof Logo-->
+               </div>
+               <!-- eof header left  -->
+               <!--  header- right  -->
+               <div class="header-right">
+                  <!--  header upper  -->
+                  <div class="header-upper">
+                     <ul id="upper-nav">
+                        <li class="marL2" id="site-map"><a href="#MainContent">Skip to main content</a>&nbsp|<br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp<a href="../sitemap.aspx">SiteMap</a>&nbsp |</li>
+                        <li class="marL2"><a href="../CustomerSeviceCellsN.aspx">Toll Free Number: 1800-2333-555</a><br /><a >LPG Emergency Helpline: 1906</a></li>
+                        <li><a href="https://www.facebook.com/IndianOilCorpLimited" target="_blank" class="u-fb" title="Facebook"></a></li>
+                        <li><a href="https://www.twitter.com/indianOilcl" target="_blank" class="u-twitter" title="Twitter"></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC5ho18VZHwEFSahW0Q_o-6g/feed" target="_blank" class="u-youtube" title="Youtube"></a></li>
+                        <li><a href="https://play.google.com/store/apps/developer?id=Indian%20Oil%20Corporation%20Ltd.&hl=en" target="_blank" class="u-googleplay" title="Google Play"></a></li>
+                        <li><a href="http://www.instagram.com/indianoilcorp" target="_blank" class="u-instagram" title="Instagram"></a></li>
+                        <li class="cl"></li>
+                     </ul>
+                  </div>
+                  <!--  eof header upper  -->
+                  <div class="cl"></div>
+                  <!--  header lower  -->
+                  <div class="header-lower">
+                     <ul>
+                        <li class="screen-reader"><a href="/reader.aspx">Screen Reader Access</a></li>
+                        <li class="color-themes"><a href="javascript:void(0)">Color Themes</a></li>
+                        <li class="colortheme" data-theme="none">
+                           <div class="colortheme white"></div>
+                           <div class="colortheme grey"></div>
+                           <div class="clear"></div>
+                        </li>
+                        <li class="colortheme" data-theme="yellowgreen">
+                           <div class="colortheme yellow"></div>
+                           <div class="colortheme green"></div>
+                           <div class="clear"></div>
+                        </li>
+                        <li class="colortheme" data-theme="yellowblue">
+                           <div class="colortheme yellow"></div>
+                           <div class="colortheme blue"></div>
+                           <div class="clear"></div>
+                        </li>
+                        <li class="colortheme" data-theme="orangered">
+                           <div class="colortheme orange"></div>
+                           <div class="colortheme red"></div>
+                           <div class="clear"></div>
+                        </li>
+                        <li class="colortheme" data-theme="blueyellow">
+                           <div class="colortheme blue"></div>
+                           <div class="colortheme yellow"></div>
+                           <div class="clear"></div>
+                        </li>
+                        <li class="a-sign"><a href="javascript:changeTextSize('small')">A-</a></li>
+                        <li class="alphabet"><a href="JavaScript:location.reload(true)">A</a></li>
+                        <li class="a-sign a-plus"><a href="javascript:changeTextSize('large')">A+</a></li>
+                        <li class="cl"></li>
+                     </ul>
+                  </div>
+                  <!--  eof header lower  -->
+                  <div class="cl"></div>
+                  <div style="float:right">
+                     <a href="http://spandan.indianoil.co.in/SBA/"  style="position:relative;top:5px; padding-right:5pt;" target="_blank"><img  src="../images/sba-e.gif" alt="SBA" title="SBA"/></a>
+                     <a href="http://india.gov.in/"  style="position:relative;top:5px; padding-right:5pt;" target="_blank"><img  src="../images/india_gov_in.png" alt="National_portal" title="National Portal"/></a>
+                     <a href="https://hindi.iocl.com/" class="hindi" target="_blank">हिंदी में</a>
+                  </div>
+               </div>
+               <div class="cl"></div>
+               <!--  eof header- right  -->
+            </div>
+            <!--  eof content  -->
+            <!--  navigation  -->
+            <!-- Added On: August 07, 2015  -->
+            <!-- Added On: eof August 07, 2015  -->
+            <div id="navigation">
+               <div class="content">
+                  <div id="navigation-wrapper">
+                     <ul id="main-nav">
+                        <li id="menu-1"><a href="/home.aspx" title="Home">Home</a></li>
+                        <li class="divider"></li>
+                        <li id="menu-2">
+                           <a href="/aboutus/profile.aspx"  title="About Us">About Us</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li id="menu-3">
+                           <a href="/IndianOil_for_you.aspx" title="IndiaOil For">IndianOil For You</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li id="menu-4"><a href="../AboutUs/Environment.aspx"  title="Concern For Environment">IndianOil for Environment</a></li>
+                        <li class="divider"></li>
+                        <li id="menu-5"><a href="../AboutUs/contacts.aspx" title="We're Listening">We're Listening</a> </li>
+                        <li class="divider"></li>
+                        <li id="menu-6"><a href="../AboutUs/Corporate_Logo.aspx" title="Tools">Tools</a> </li>
+                        <li class="cl"></li>
+                     </ul>
+                     <div class="megamenu">
+                        <h3 class="megamenu-heading">IndianOil @ a glance</h3>
+                        <!-- Menu Coulmn 1 -->
+                        <div class="menu-column">
+                           <!-- About Us -->
+                           <ul class="mega-menu mega-menu-2">
+                              <li><a href="/aboutus/profile.aspx" class="dropdown-section-heading" title="About Us">About Us</a></li>
+                              <li><a href="/aboutus/profile.aspx" title="Who we are">Who we are</a></li>
+                              <li><a href="../AboutUs/Vision.aspx" title="Our Vision & Purpose">Our Vision & Purpose</a></li>
+                              <li><a href="../AboutUs/Business.aspx" title="Our Business">Our Business</a><a id="rigarr4"> <img id="img41" style="cursor:pointer;"  src="../images/icon-arrow-down.png" /><img style="cursor:pointer;display:none;" id="img42"  src="../images/icon-arrow-right.png" /></a></li>
+                              <ul id="tst4" style="display: none">
+                                 <li  ><a href="../AboutUs/Refineries.aspx" title="Refining"><img src="../images/icon/more-arrow.png" /> Refining</a></li>
+                                 <li  ><a href="../AboutUs/Pipelines.aspx" title="Pipelines"><img src="../images/icon/more-arrow.png" /> Pipelines</a></li>
+                                 <li  ><a href="../AboutUs/Marketing.aspx" title="Marketing"><img src="../images/icon/more-arrow.png" /> Marketing</a></li>
+                                 <li  ><a href="../AboutUs/Research_Development.aspx" title="R&D Centre"><img src="../images/icon/more-arrow.png" /> R&D Centre – Technology Licensing</a></li>
+                                 <li  ><a href="../AboutUs/Petrochemicals.aspx" title="Petrochemicals"><img src="../images/icon/more-arrow.png" /> Petrochemicals</a></li>
+                                 <li  ><a href="../AboutUs/NaturalGas.aspx" title="Natural Gas"><img src="../images/icon/more-arrow.png" /> Natural Gas</a></li>
+                                 <li  ><a href="../AboutUs/e_and_p.aspx" title="E & P"><img src="../images/icon/more-arrow.png" /> E & P</a></li>
+                                 <li  ><a href="../AboutUs/Explosives_and_Cryogenics.aspx" title="Explosives and Cryogenics"><img src="../images/icon/more-arrow.png" /> Explosives and Cryogenics</a></li>
+                              </ul>
+                              <li><a href="../AboutUs/Majorprojects.aspx" title="Our Major Projects">Our Major Projects</a></li>
+                              <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                              <li><a href="../AboutUs/GroupCompanies_JVs.aspx" title="Our Group Companies & JVs">Our Group Companies & JVs </a> <a id="rigarr1" ><img id="img11" style="cursor:pointer;" src="../images/icon-arrow-down.png" /><img  style="cursor:pointer;display:none;" id="img12"  src="../images/icon-arrow-right.png" />                 </a>  </li>
+                              <ul id="tst1" style="display: none">
+                                 <li  ><a href="../AboutUs/GroupCompanies(LIOC).aspx" title="Lanka IOC PLC"><img src="../images/icon/more-arrow.png" /> Lanka IOC PLC</a></li>
+                                 <li ><a href="../AboutUs/GroupCompanies(Mauritius).aspx" title="IndianOil (Mauritius) Ltd"><img src="../images/icon/more-arrow.png" /> IndianOil (Mauritius) Ltd</a></li>
+                                 <li  ><a href="../AboutUs/GroupCompanies(MiddleEast).aspx" title="IOC Middle East FZE"><img src="../images/icon/more-arrow.png" /> IOC Middle East FZE</a></li>
+                                 <li  ><a href="../AboutUs/GroupCompanies(CPCL).aspx" title="Chennai Petroleum Corporation Limited (CPCL)"><img src="../images/icon/more-arrow.png" /> Chennai Petroleum Corporation Limited</a></li>
+                                 <li  ><a href="../AboutUs/GroupCompanies(CREDA).aspx" title="IndianOil - CREDA Biofuels Limited"><img src="../images/icon/more-arrow.png" /> IndianOil-CREDA Biofuels Limited</a></li>
+                              </ul>
+                              <li><a href="../AboutUs/MajorUnits.aspx" title="Our Locations">Our Locations</a></li>
+                              <li><a href="../AboutUs/Management.aspx" title="Our Leadership">Our Leadership</a></li>
+                              <li><a href="../HistoryofIndianOil/OurHistory.html" title="Our History" target="_blank">Our History</a></li>
+                           </ul>
+                           <!-- Motorists -->
+                           <ul class="mega-menu megamenu-section-bottom mega-menu-3">
+                              <li><a href="../Products/Gasoline.aspx" class="dropdown-section-heading" title="IndianOil for Motorists">IndianOil for Motorists</a></li>
+                              <li><a href="../Products/Gasoline.aspx" title="Petrol / Gasoline">Petrol/Gasoline</a></li>
+                              <li><a href="../Products/HighSpeedDiesel.aspx" title="Diesel / Gasoil">Diesel/Gasoil</a></li>
+                              <li><a href="../Products/MotoristLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a><a id="rigarr"><img id="img01" style="cursor:pointer;"  src="../images/icon-arrow-down.png" /><img  id="img02" style="cursor:pointer;display:none;" id="downarr"   src="../images/icon-arrow-right.png" /></a> </li>
+                              <ul id="tst" style="display: none">
+                                 <li  ><a href="../Products/AutomotiveGreases.aspx" title="Automotive Greases"><img src="../images/icon/more-arrow.png" /> Automotive Greases</a></li>
+                                 <li ><a href="../Products/AutomotiveLubricatingOils.aspx" title="Automotive Lubricating Oils"><img src="../images/icon/more-arrow.png" /> Automotive Lubricating Oils</a></li>
+                                 <li  ><a href="../Products/AutomotiveSpecialityOils.aspx" title="Automotive Speciality Oils"><img src="../images/icon/more-arrow.png" /> Automotive Speciality Oils</a></li>
+                              </ul>
+                              <li><a href="../Products/AutoGas.aspx" title="Autogas">AutoGas</a></li>
+                              <li><a href="../Interface/TestFuelSamples.aspx" title="Test Fuel Samples">Test Fuel Samples</a></li>
+                              <li><a href="https://associates.indianoil.co.in/PumpLocator/" target="_blank" title="Petrol Pump Locator">Petrol Pump Locator</a></li>
+                              <li><a href="../Services/MotoristsLoyalityProgrammes.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                           </ul>
+                           <!-- Households -->
+                           <ul class="mega-menu megamenu-section-bottom mega-menu-3">
+                              <li><a href="../Products/Indanegas.aspx" class="dropdown-section-heading" title="IndianOil for HouseHolds">IndianOil for Households</a></li>
+                              <li><a href="../Products/Indanegas.aspx" title="Indane Cooking Gas">Indane Cooking Gas</a></li>
+                              <li><a href="../Products/SuperiorKeroseneOil.aspx" title="Kerosene">Kerosene</a></li>
+                              <li><a href="../Services/LPGServices.aspx" title="LPG Services">LPG Services</a></li>
+                              <li><a href="http://www.givitup.in/" title="Say No to LPG Subsidy" target="_blank">Say No to LPG Subsidy</a></li>
+                           </ul>
+                        </div>
+                        <!-- Menu Column 2 -->
+                        <div class="menu-column">
+                           <!-- Households -->
+                           <!-- Businesses -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a  href="../Products/BulkIndustrialFuel.aspx" class="dropdown-section-heading" title="IndianOil for Businesses">IndianOil for Businesses</a></li>
+                              <li><a href="../Products/BulkIndustrialFuel.aspx" title="Bulk / Industrial Fuels">Bulk / Industrial Fuels</a><a id="rigarr3"><img style="cursor:pointer;" id="img31"  src="../images/icon-arrow-down.png" /><img style="cursor:pointer;display:none;" id="img32"  src="../images/icon-arrow-right.png" /> </a></li>
+                              <ul id="tst3" style="display: none">
+                                 <li  ><a href="../Products/Furnaceoil.aspx" title="Furnace Oil"><img src="../images/icon/more-arrow.png" /> Furnace Oil</a></li>
+                                 <li ><a href="../Products/LightDieseloil.aspx" title="Light Diesel Oil"><img src="../images/icon/more-arrow.png" />  Light Diesel Oil</a></li>
+                              </ul>
+                              <li><a href="../Products/AviationTurbineFuel.aspx" title="Aviation Fuel">Aviation Fuel</a></li>
+                              <li><a href="../Products/Marinefuels.aspx" title="Marine Oils">Marine Oils</a></li>
+                              <li><a href="../Products/Bitumen.aspx" title="Bitumen">Bitumen</a></li>
+                              <li><a href="../Products/BusinessLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a><a id="rigarr2"><img id="img21" style="cursor:pointer;"  src="../images/icon-arrow-down.png" /><img style="cursor:pointer;display:none;" id="img22"  src="../images/icon-arrow-right.png" /></a> </li>
+                              <ul id="tst2" style="display: none">
+                                 <li  ><a href="../Products/AgriculturalSpray.aspx" title="Agricultural Spray Oils"><img src="../images/icon/more-arrow.png" /> Agricultural Spray Oils</a></li>
+                                 <li ><a href="../Products/IndustrialGreases.aspx" title="Industrial Greases"><img src="../images/icon/more-arrow.png" /> Industrial Greases</a></li>
+                                 <li  ><a href="../Products/IndustrialLubricating.aspx" title="Industrial Lubricating Oils"><img src="../images/icon/more-arrow.png" />   Industrial Lubricating Oils</a></li>
+                                 <li  ><a href="../Products/IndustrialSpeciality.aspx" title="Industrial Speciality Oils"><img src="../images/icon/more-arrow.png" />  Industrial Speciality Oils</a></li>
+                                 <li  ><a href="../Products/MetalWorkingOils.aspx" title="Metal Working Oils"><img src="../images/icon/more-arrow.png" /> Metal Working Oils</a></li>
+                                 <li  ><a href="../Products/RailroadGreases.aspx" title="Railroad Greases"><img src="../images/icon/more-arrow.png" /> Railroad Greases</a></li>
+                                 <li  ><a href="../Products/Railroad.aspx" title="Railroad Oils"><img src="../images/icon/more-arrow.png" /> Railroad Oils</a></li>
+                              </ul>
+                              <li><a href="../Services/marketingtotalFuel.aspx" title="Fuel Mgmt / Consumer Pumps">Fuel Mgmt / Consumer Pumps</a></li>
+                              <li><a href="../Services/MarketingCommercialLPG.aspx" title="Commercial / Reticulated LPG">Commercial / Reticulated LPG</a></li>
+                              <li><a href="../Services/MarketingLPGBusiness.aspx" title="Non-Fuel Alliances">Non-Fuel Alliances</a></li>
+                              <li><a href="../Services/MarketingLoyaltyPrograms.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                              <li><a href="../Products/NaturalGas.aspx" title="Natural Gas">Natural Gas</a></li>
+                              <li><a href="../Products/PetrochemicalsSpecialities.aspx" title="Petrochemicals">Petrochemicals</a></li>
+                              <li><a href="../Products/SpecialProducts.aspx" title="Special Products">Special Products</a></li>
+                              <li><a href="../Products/IndaneNanocut.aspx" title="Indane NANOCUT">Indane NANOCUT</a></li>
+                              <li><a href="../Products/Cryogenics.aspx" title="Cryogenics">Cryogenics</a></li>
+                              <li><a href="../Products/Non-PDSSuperiorKeroseneOil.aspx" title="Non-PDS">Non-PDS Superior Kerosene Oil</a></li>
+                              <li><a href="../Products/Explosives.aspx" title="Explosives">Explosives</a></li>
+                              <li><a href="../Services/Consultancy.aspx" title="Consultancy">Consultancy</a></li>
+                           </ul>
+                           <!-- Society -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a  href="../AboutUs/corporatesocialresponsibility.aspx" class="dropdown-section-heading" title="IndianOil for Society">IndianOil for Society</a></li>
+                              <li><a href="../AboutUs/corporatesocialresponsibility.aspx" title="IndianOil for Community (CSR)">IndianOil for Community (CSR)</a></li>
+                              <li><a href="../AboutUs/WeSupport.aspx" title="We support">We Support</a></li>
+                              <li><a href="../AboutUs/AcademicScholarships.aspx" title="IndianOil Academic Scholarships">IndianOil Academic Scholarships</a>
+                              </li>
+                              <li><a href="../AboutUs/SportsScholarships.aspx" title="IndianOil Sports Scholarships">IndianOil Sports Scholarships</a></li>
+                              <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                              <li><a href="../AboutUs/IndianOilFoundation.aspx" title="IndianOil Foundation">The IndianOil Foundation</a></li>
+                              <li><a href="http://indianoilstartupfund.in/Default.aspx" target="_blank" title="IndianOil Start-up Fund">IndianOil Start-up Fund</a></li>
+                           </ul>
+                        </div>
+                        <!-- eof Menu Column 2 -->
+                        <!-- Menu Column 3 -->
+                        <div class="menu-column">
+                           <!-- Society -->
+                           <!-- Suppliers -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a  href="../Talktous/VendorRegistration.aspx" class="dropdown-section-heading" title="IndianOil for Suppliers">IndianOil for Suppliers</a></li>
+                              <li><a href="../Talktous/VendorRegistration.aspx" title="Vendor Registration">Vendor Registration</a></li>
+                              <li><a href="../Public-Procurement-for-Micro-and-Small-Enterprises-Target.aspx" title="Procurement from MSEs">Procurement from MSEs</a></li>
+                              <li><a href="../Talktous/IntPact.aspx" title="Integrity Pact">Integrity Pact</a></li>
+                              <li><a href="https://spandan.indianoil.co.in/BPSP/RoKskLinkPage_COIS.jsp?LOCATION_TYPE=LPG&DOC=50" target="_blank" title="Reports on Purchase / Work Order">Reports on Purchase / Work Order</a></li>
+                              <li><a href="../Talktous/conciliation.aspx" title="IndianOil Conciliation Rules, 2014">IndianOil Conciliation Rules, 2014</a></li>
+                              <li><a href="https://iocletenders.gov.in/" target="_blank" title="Tender">Tenders</a></li>
+                              <li><a href="../Talktous/SupplierNotices.aspx" title="Notices">Notices</a></li>
+                           </ul>
+                           <!-- Channel Partners -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a href="../Talktous/RO_Guidelines.aspx" class="dropdown-section-heading" title="IndianOil for Business Partners">IndianOil for Business Partners</a></li>
+                              <li><a href="../Talktous/RO_Guidelines.aspx" title="RO / KSK Dealerships">RO / KSK Dealerships</a></li>
+                              <li><a href="../Talktous/LPG_Guidelines.aspx" title="LPG Distributorships">LPG Distributorships</a></li>
+                              <li><a href="../Talktous/CoCos-Service-Provider.aspx" title="COCO Divestment and Service Provider">COCO Divestment and Service Provider</a></li>
+                              <li><a href="../Talktous/Polymer_Dealers.aspx" title="Polymer Dealers">Polymer Dealers</a></li>
+                              <li><a href="../Talktous/Marketing_Discipline_Guidelines.aspx" title="Marketing Discipline Guidelines">Marketing Discipline Guidelines</a></li>
+                           </ul>
+                           <!-- Investors -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a href="../InvestorCenter/InvestorCenter.aspx" class="dropdown-section-heading" title="IndianOil for Investors">IndianOil for Investors</a></li>
+                              <li><a href="../InvestorCenter/IEPF.aspx" title="Transfer of shares to IEPF" target="_self">Transfer of shares to IEPF</a></li>
+                              <li><a href="../InvestorCenter/Board-Committees(2016-06-28).pdf" title="Committees of the Board" target="_blank">Committees of the Board</a></li>
+                              <li><a href="../InvestorCenter/IndependentDirectors.pdf" title="Terms and Conditions " target="_blank">T&C of Appointment of Ind. Directors</a></li>
+                              <li><a href="../download/IDFP.pdf" title="Terms and Conditions " target="_blank">Familiarisation program for Ind. Directors</a></li>
+                              <li><a href="../InvestorCenter/IntimationStockExchange.aspx" title="Stock Price">Intimation To Stock Exchanges</a></li>
+                              <li><a href="../InvestorCenter/stock_prices.aspx" title="Stock Price">Stock Price</a></li>
+                              <li><a href="../InvestorCenter/ShareholdingPattern.aspx" title="Shareholding Pattern">Shareholding Pattern</a></li>
+                              <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                              <li><a href="../Talktous/CorporateGovernance.aspx" title="Corporate Governance">Corporate Governance</a></li>
+                              <li><a href="../download/Chairman-Message-57th-AGM-2016.pdf" target="_blank" title="Chairman’s AGM Address">Chairman’s AGM Address 2016</a></li>
+                              <li><a href="../InvestorCenter/roadshow_presentation.aspx" title="Presentation to Bankers">Presentation To Analysts / Investors</a></li>
+                              <li><a href="../InvestorCenter/Dividend_Information.aspx" title="Dividend Information">Dividend Information</a></li>
+                              <li><a href="../InvestorCenter/Notices.aspx" title="Notices">Notices</a></li>
+                              <li><a href="../InvestorCenter/Policies.aspx" title="Policies">Policies</a></li>
+                           </ul>
+                           <!-- IndianOil Overseas -->
+                        </div>
+                        <!-- Menu Column 4 -->
+                        <div class="menu-column menu-column-last">
+                           <!-- IndianOil Overseas -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a  href="../AboutUs/GroupCompanies(LIOC).aspx" class="dropdown-section-heading" title="IndianOil Overseas">IndianOil Overseas</a></li>
+                              <li><a href="../AboutUs/GroupCompanies(LIOC).aspx" title="Lanka IOC PLC">Lanka IOC PLC</a></li>
+                              <li><a href="../AboutUs/GroupCompanies(Mauritius).aspx" title="IndianOil (Mauritius) Ltd.">IndianOil (Mauritius) Ltd.</a></li>
+                              <li><a href="../AboutUs/GroupCompanies(MiddleEast).aspx" title="IOC Middle East FZE">IOC Middle East FZE</a></li>
+                           </ul>
+                           <!-- Media -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a href="../aboutus/Indianoil_in_media.aspx" class="dropdown-section-heading" title="IndianOil for Media">IndianOil for Media</a></li>
+                              <li><a href="../aboutus/Press_release.aspx" title="IndianOil in Media">News Releases</a></li>
+                              <li><a href="../aboutus/Indianoil_in_media.aspx" title="IndianOil in Media">IndianOil in Media</a></li>
+                              <li><a href="../MediaCenter/publications.aspx" title="Product Prices">Publications</a></li>
+                              <li><a href="../TotalProductList.aspx" title="Product Prices">Product Prices</a></li>
+                           </ul>
+                           <!-- Careers -->
+                           <ul class="mega-menu mega-menu-3">
+                              <li><a href="../PeopleCareers/Careers.aspx" class="dropdown-section-heading" title="IndianOil for Careers">IndianOil for Careers</a></li>
+                              <li><a href="../PeopleCareers/Careers.aspx" title="Careers">Careers</a></li>
+                              <li><a href="../PeopleCareers/job.aspx" title="Latest Job Openings">Latest Job Openings</a></li>
+                              <li><a href="../IndianOilInternship.aspx" title="IndianOil Internships">Internships</a></li>
+                           </ul>
+                           <!-- Environment -->
+                           <ul class="mega-menu mega-menu-4">
+                              <li><a href="../AboutUs/Environment.aspx" class="dropdown-section-heading" title="IndianOil for Environment">IndianOil for Environment</a></li>
+                              <li><a href="../AboutUs/Environment.aspx" title="IndianOil’s Green Agenda">IndianOil’s Green Agenda</a></li>
+                              <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                              <li><a href="../AboutUs/Environment(SHE).aspx" title="H,S&E Overview">H,S&E Overview</a></li>
+                              <li><a href="../AboutUs/environment(GFA).aspx" title="Green Fuel Alternatives">Green Fuel Alternatives</a></li>
+                           </ul>
+                           <!-- We are Listening -->
+                           <ul class="mega-menu mega-menu-5">
+                              <li><a href="../VigilanceInquiry.aspx" class="dropdown-section-heading" title="We are Listening">We are Listening</a></li>
+                              <li><a href="../Aboutus/help.aspx" target="_self" title="Help">Help</a></li>
+                              <li><a href="https://spandan.indianoil.co.in/DBTLGrievance/" target="_blank" title="PaHal-Related Queries">PaHal-Related Queries</a></li>
+                              <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=2" target="_blank" title="Other LPG Queries">Other LPG Queries</a></li>
+                              <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=3" target="_blank"  title="Queries on Fuel Nations">Queries on Fuel Stations</a></li>
+                              <li><a href="../VigilanceInquiry.aspx" title="Vigilance Queries">Vigilance Queries</a></li>
+                              <li><a href="../Talktous/right-to-information.aspx" title="Right To Information">Right To Information</a></li>
+                              <li><a href="../Talktous/CitizensCharter.aspx" title="Citizen Charter">Citizen Charter</a></li>
+                              <li><a href="../Talktous/SNotices.aspx" title="Statutory Notices">Statutory Notices</a></li>
+                           </ul>
+                           <!-- Contact Us -->
+                           <ul class="mega-menu">
+                              <li><a  href="../AboutUs/contacts.aspx" class="dropdown-section-heading" title="Contact Us">Contact Us</a></li>
+                           </ul>
+                        </div>
+                        <div class="cl"></div>
+                     </div>
+                  </div>
+                  <!-- Mobile Menu -->
+                  <a id="mobile-nav-icon"></a>
+                  <ul id="mobile-nav">
+                     <li id="mobile-nav-1" class="border-bottom-none"><a href="/home.aspx" title="Home">Home</a></li>
+                     <li id="mobile-nav-2">
+                        <a  title="About Us">About Us</a>
+                        <!--  mobile-mega-menu  -->
+                        <div class="megamenu mobile-mega-menu" id="mobile-mega-menu-2">
+                           <h3 class="megamenu-heading">IndianOil @ a glance</h3>
+                           <!-- Menu Coulmn 1 -->
+                           <div class="menu-column">
+                              <!-- back btn -->
+                              <a class="back-btn" >Back</a>
+                              <!-- eof back btn -->
+                              <!-- About Us -->
+                              <ul>
+                                 <li><a class="dropdown-section-heading" title="About Us">About Us</a></li>
+                                 <li><a href="/aboutus/profile.aspx" title="Who we are">Who we are</a></li>
+                                 <li><a href="../AboutUs/Vision.aspx" title="Our Vision & Purpose">Our Vision & Purpose</a></li>
+                                 <li><a href="../AboutUs/Business.aspx" title="Our Business">Our Business</a></li>
+                                 <li><a href="../AboutUs/Majorprojects.aspx" title="Our Major Projects">Our Major Projects</a></li>
+                                 <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                                 <li><a href="../AboutUs/GroupCompanies_JVs.aspx" title="Our Group Companies & JVs">Our Group Companies & JVs</a>
+                                 </li>
+                                 <li><a href="../AboutUs/MajorUnits.aspx" title="Our Locations">Our Locations</a></li>
+                                 <li><a href="../AboutUs/Management.aspx" title="Our Leadership">Our Leadership</a></li>
+                                 <li><a href="../HistoryofIndianOil/OurHistory.html" title="Our History">Our History</a></li>
+                              </ul>
+                           </div>
+                           <!-- Menu Coulmn 1 -->
+                        </div>
+                        <!--  eof mobile-mega-menu  -->
+                     </li>
+                     <li id="mobile-nav-3">
+                        <a  title="IndiaOil For">IndiaOil For You</a>
+                        <!--  mobile-mega-menu  -->
+                        <div class="megamenu mobile-mega-menu" id="mobile-mega-menu-3">
+                           <h3 class="megamenu-heading">IndianOil @ a glance</h3>
+                           <!-- Menu Coulmn 1 -->
+                           <div class="menu-column">
+                              <!-- back btn -->
+                              <a class="back-btn" >Back</a>
+                              <!-- eof back btn -->
+                              <!-- Motorists -->
+                              <ul class="megamenu-section-bottom">
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Motorists">IndianOil for Motorists</a></li>
+                                 <li><a href="../Products/Gasoline.aspx" title="Petrol / Gasoline">Petrol/Gasoline</a></li>
+                                 <li><a href="../Products/HighSpeedDiesel.aspx" title="Diesel / Gasoil">Diesel/Oil Gas</a></li>
+                                 <li><a href="../Products/MotoristLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a></li>
+                                 <li><a href="../Products/AutoGas.aspx" title="Autogas">AutoGas</a></li>
+                                 <li><a href="../Interface/TestFuelSamples.aspx" title="Test Fuel Samples">Test Fuel Samples</a></li>
+                                 <li><a href="https://associates.indianoil.co.in/PumpLocator/" target="_blank" title="Petrol Pump Locator">Petrol Pump Locator</a></li>
+                                 <li><a href="../Services/MotoristsLoyalityProgrammes.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                              </ul>
+                              <!-- Households -->
+                              <ul class="megamenu-section-bottom">
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for HouseHolds">IndianOil for HouseHolds</a></li>
+                                 <li><a href="../Products//Indanegas.aspx" title="Indane Cooking Gas">Indane Cooking Gas</a></li>
+                                 <li><a href="../Products/SuperiorKeroseneOil.aspx" title="Kerosene">Kerosene</a></li>
+                                 <li><a href="../Services/LPGServices.aspx" title="LPG Services">LPG Services</a></li>
+                                 <li><a href="http://www.givitup.in/" target="_blank" title="Say No to LPG Subsidy">Say No to LPG Subsidy</a></li>
+                              </ul>
+                              <!-- Businesses -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Businesses">IndianOil for Businesses</a></li>
+                                 <li><a href="../Products/BulkIndustrialFuel.aspx" title="Bulk / Industrial Fuels">Bulk / Industrial Fuels</a></li>
+                                 <li><a href="../Products/AviationTurbineFuel.aspx" title="Aviation Fuel">Aviation Fuel</a></li>
+                                 <li><a href="../Products/Marinefuels.aspx" title="Marine Oils">Marine Oils</a></li>
+                                 <li><a href="../Products/Bitumen.aspx" title="Bitumen">Bitumen</a></li>
+                                 <li><a href="../Products/BusinessLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a></li>
+                                 <li><a href="../Services/marketingtotalFuel.aspx" title="Fuel Mgmt / Consumer Pumps">Fuel Mgmt / Consumer Pumps</a></li>
+                                 <li><a href="../Services/MarketingCommercialLPG.aspx" title="Commercial / Reticulated LPG">Commercial / Reticulated LPG</a></li>
+                                 <li><a href="../Services/MarketingLPGBusiness.aspx" title="Non-Fuel Alliances">Non-Fuel Alliances</a></li>
+                                 <li><a href="../Services/MarketingLoyaltyPrograms.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                                 <li><a href="../Products/NaturalGas.aspx" title="Natural Gas">Natural Gas</a></li>
+                                 <li><a href="../Products/PetrochemicalsSpecialities.aspx" title="Petrochemicals">Petrochemicals</a></li>
+                                 <li><a href="../Products/SpecialProducts.aspx" title="Special Products">Special Products</a></li>
+                                 <li><a href="../Products/IndaneNanocut.aspx" title="Indane NANOCUT">Indane NANOCUT</a></li>
+                                 <li><a href="../Products/Cryogenics.aspx" title="Cryogenics">Cryogenics</a></li>
+                                 <li><a href="../Products/Non-PDSSuperiorKeroseneOil.aspx" title="Non-PDS">Non-PDS Superior Kerosene Oil</a></li>
+                                 <li><a href="../Products/Explosives.aspx" title="Explosives">Explosives</a></li>
+                                 <li><a href="../Services/Consultancy.aspx" title="Consultancy">Consultancy</a></li>
+                              </ul>
+                              <!-- Society -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Society">IndianOil for Society</a></li>
+                                 <li><a href="../AboutUs/corporatesocialresponsibility.aspx" title="IndianOil for Community (CSR)">IndianOil for Community (CSR)</a></li>
+                                 <li><a href="../AboutUs/WeSupport.aspx" title="We support">We Support</a></li>
+                                 <li><a href="../AboutUs/AcademicScholarships.aspx" title="IndianOil Academic Scholarships">IndianOil Academic Scholarships</a>
+                                 </li>
+                                 <li><a href="../AboutUs/SportsScholarships.aspx" title="IndianOil Sports Scholarships">IndianOil Sports Scholarships</a></li>
+                                 <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                                 <li><a href="../AboutUs/IndianOilFoundation.aspx" title="IndianOil Foundation">The IndianOil Foundation</a></li>
+                                 <li><a href="http://indianoilstartupfund.in/Default.aspx" target="_blank" title="IndianOil Start-up Fund">IndianOil Start-up Fund</a></li>
+                              </ul>
+                              <!-- Suppliers -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Suppliers">IndianOil for Suppliers</a></li>
+                                 <li><a href="../Talktous/VendorRegistration.aspx" title="Vendor Registration">Vendor Registration</a></li>
+                                 <li><a href="../Public-Procurement-for-Micro-and-Small-Enterprises-Target.aspx" title="Procurement from MSEs">Procurement from MSEs</a></li>
+                                 <li><a href="../Talktous/IntPact.aspx" title="Integrity Pact">Integrity Pact</a></li>
+                                 <li><a href="https://spandan.indianoil.co.in/BPSP/RoKskLinkPage_COIS.jsp?LOCATION_TYPE=LPG&DOC=50" target="_blank" title="Reports on Purchase / Work Order">Reports on Purchase / Work Order</a></li>
+                                 <li><a href="../Talktous/conciliation.aspx" title="IndianOil Conciliation Rules, 2014">IndianOil Conciliation Rules, 2014</a></li>
+                                 <li><a href="https://iocletenders.gov.in/" target="_blank" title="Tender">Tender</a></li>
+                                 <li><a href="../Talktous/SupplierNotices.aspx" title="Notices">Notices</a></li>
+                              </ul>
+                              <!-- Channel Partners -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Business Partners">IndianOil for Business Partners</a></li>
+                                 <li><a href="../Talktous/RO_Guidelines.aspx" title="RO / KSK Dealerships">RO / KSK Dealerships</a></li>
+                                 <li><a href="../Talktous/LPG_Guidelines.aspx" title="LPG Distributorships">LPG Distributorships</a></li>
+                                 <li><a href="../Talktous/CoCos-Service-Provider.aspx" title="COCO Service Provider">COCO Service Provider</a></li>
+                                 <li><a href="../Talktous/Polymer_Dealers.aspx" title="Polymer Dealers">Polymer Dealers</a></li>
+                                 <li><a href="../Talktous/Marketing_Discipline_Guidelines.aspx" title="Marketing Discipline Guidelines">Marketing Discipline Guidelines</a></li>
+                              </ul>
+                              <!-- Investors -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil for Investors">IndianOil for Investors</a></li>
+                                 <li><a href="../InvestorCenter/IEPF.aspx" title="Transfer of shares to IEPF" target="_self">Transfer of shares to IEPF</a></li>
+                                 <li><a href="../InvestorCenter/Board-Committees(2016-06-28).pdf" title="Committees of the Board" target="_blank">Committees of the Board</a></li>
+                                 <li><a href="../InvestorCenter/IndependentDirectors.pdf" title="Terms and Conditions " target="_blank">T&C of Appointment of Ind. Directors</a></li>
+                                 <li><a href="../download/IDFP.pdf" title="Terms and Conditions " target="_blank">Familiarisation program for Ind. Directors</a></li>
+                                 <li><a href="../InvestorCenter/IntimationStockExchange.aspx" title="Stock Price">Intimation To Stock Exchange</a></li>
+                                 <li><a href="../InvestorCenter/stock_prices.aspx" title="Stock Price">Stock Price</a></li>
+                                 <li><a href="../InvestorCenter/ShareholdingPattern.aspx" title="Shareholding Pattern">Shareholding Pattern</a></li>
+                                 <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                                 <li><a href="../Talktous/CorporateGovernance.aspx" title="Corporate Governance">Corporate Governance</a></li>
+                                 <li><a href="../download/Chairman-Message-57th-AGM-2016.pdf" target="_blank" title="Chairman’s AGM Address">Chairman’s AGM Address 2016</a></li>
+                                 <li><a href="../InvestorCenter/roadshow_presentation.aspx" title="Presentation to Bankers">Presentation To Analysts / Investors</a></li>
+                                 <li><a href="../InvestorCenter/Dividend_Information.aspx" title="Dividend Information">Dividend Information</a></li>
+                                 <li><a href="../InvestorCenter/Notices.aspx" title="Notices">Notices</a></li>
+                                 <li><a href="../InvestorCenter/Policies.aspx" title="Policies">Policies</a></li>
+                              </ul>
+                              <!-- IndianOil Overseas -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="IndianOil Overseas">IndianOil Overseas</a></li>
+                                 <li><a href="../AboutUs/GroupCompanies(LIOC).aspx" title="Lanka IOC PLC">Lanka IOC PLC</a></li>
+                                 <li><a href="../AboutUs/GroupCompanies(Mauritius).aspx" title="IndianOil (Mauritius) Ltd.">IndianOil (Mauritius) Ltd.</a></li>
+                                 <li><a href="../AboutUs/GroupCompanies(MiddleEast).aspx" title="IOC Middle East FZE">IOC Middle East FZE</a></li>
+                              </ul>
+                              <!-- Media -->
+                              <ul>
+                                 <li><a href="#" class="dropdown-section-heading" title="IndianOil for Media">IndianOil for Media</a></li>
+                                 <li><a href="../AboutUs/Press_release.aspx" title="IndianOil in Media">News Releases</a></li>
+                                 <li><a href="../AboutUs/Indianoil_in_media.aspx" title="IndianOil in Media">IndianOil in Media</a></li>
+                                 <li><a href="../MediaCenter/publications.aspx" title="Product Prices">Publications</a></li>
+                                 <li><a href="../TotalProductList.aspx" title="Product Prices">Product Prices</a></li>
+                              </ul>
+                              <!-- Careers -->
+                              <ul>
+                                 <li><a href="../PeopleCareers/Careers.aspx" class="dropdown-section-heading" title="IndianOil for Careers">IndianOil for Careers</a></li>
+                                 <li><a href="../PeopleCareers/Careers.aspx" title="Careers">Careers</a></li>
+                                 <li><a href="../PeopleCareers/job.aspx" title="Latest Job Openings">Latest Job Openings</a></li>
+                                 <li><a href="../IndianOilInternship.aspx" title="IndianOil Internships">Internships</a></li>
+                              </ul>
+                           </div>
+                           <!-- Menu Coulmn 1 -->
+                        </div>
+                        <!--  eof mobile-mega-menu  -->
+                     </li>
+                     <li id="mobile-nav-4">
+                        <a  title="Concern For Environment">IndianOil for Environment</a>
+                        <div class="megamenu mobile-mega-menu" id="mobile-mega-menu-4">
+                           <h3 class="megamenu-heading">IndianOil @ a glance</h3>
+                           <!-- Menu Coulmn 1 -->
+                           <div class="menu-column">
+                              <!-- back btn -->
+                              <a class="back-btn" >Back</a>
+                              <!-- eof back btn -->
+                              <!-- Environment -->
+                              <ul>
+                                 <li><a href="../AboutUs/Environment.aspx" class="dropdown-section-heading" title="IndianOil for Environment">IndianOil for Environment</a></li>
+                                 <li><a href="../AboutUs/Environment.aspx" title="IndianOil’s Green Agenda">IndianOil’s Green Agenda</a></li>
+                                 <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                                 <li><a href="../AboutUs/Environment(SHE).aspx" title="H,S&E Overview">H,S&E Overview</a></li>
+                                 <li><a href="../AboutUs/environment(GFA).aspx" title="Green Fuel Alternatives">Green Fuel Alternatives</a></li>
+                              </ul>
+                           </div>
+                           <!-- Menu Coulmn 1 -->
+                        </div>
+                     </li>
+                     <li id="mobile-nav-5">
+                        <a  title="We're Listening">We're Listening</a>
+                        <div class="megamenu mobile-mega-menu" id="mobile-mega-menu-5">
+                           <h3 class="megamenu-heading">IndianOil @ a glance</h3>
+                           <!-- Menu Coulmn 1 -->
+                           <div class="menu-column">
+                              <!-- back btn -->
+                              <a class="back-btn" >Back</a>
+                              <!-- eof back btn -->
+                              <!-- We are Listening -->
+                              <ul>
+                                 <li><a  class="dropdown-section-heading" title="We are Listening">We are Listening</a></li>
+                                 <li><a href="../Aboutus/help.aspx" target="_self" title="Help">Help</a></li>
+                                 <li><a href="https://spandan.indianoil.co.in/DBTLGrievance/" target="_blank" title="PaHal-Related Queries">PaHal-Related Queries</a></li>
+                                 <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=2" target="_blank" title="Other LPG Queries">Other LPG Queries</a></li>
+                                 <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=3" target="_blank" title="Queries on Fuel Nations">Queries on Fuel Station</a></li>
+                                 <li><a href="../VigilanceInquiry.aspx" title="Vigilance Queries">Vigilance Queries</a></li>
+                                 <li><a href="../Talktous/right-to-information.aspx" title="Right To Information">Right To Information</a></li>
+                                 <li><a href="../Talktous/CitizensCharter.aspx" title="Citizen Charter">Citizen Charter</a></li>
+                                 <li><a href="../Talktous/SNotices.aspx" title="Statutary Notices">Statutory Notices</a></li>
+                              </ul>
+                              <!-- Contact Us -->
+                           </div>
+                           <!-- Menu Coulmn 1 -->
+                        </div>
+                     </li>
+                     <li id="mobile-nav-6" class="border-bottom-none"><a  href="../AboutUs/contacts.aspx" title="Contact Us">Contact Us</a></li>
+                     <li id="mobile-nav-7" class="border-bottom-none"><a href="../AboutUs/CorporateLogos.aspx" title="Tools">Tools</a> </li>
+                     <li class="cl"></li>
+                  </ul>
+                  <!-- Added On: August 07, 2015  -->
+                  <a id="mobile-nav-social-icon"></a>
+                  <ul id="mobile-nav-social">
+                     <li>Toll Free Number: <a href="tel:1800-2333-555">1800-2333-555</a></li>
+                     <li>Lpg Emergency Helpline: <a>1906</a></li>
+                     <li class="social-icon-nav"><a href="https://www.facebook.com/IndianOilCorpLimited" target="_blank" class="u-fb" title="Facebook"></a>
+                        <a href="https://twitter.com/indianOilcl" target="_blank" class="u-twitter" title="twitter"></a>
+                        <a href="https://www.youtube.com/channel/UC5ho18VZHwEFSahW0Q_o-6g/feed" target="_blank" class="u-youtube" title="Youtube"></a>
+                        <a href="https://play.google.com/store/apps/developer?id=Indian%20Oil%20Corporation%20Ltd.&amp;hl=en" target="_blank" class="u-googleplay" title="Google Play"></a>
+                        <a href="http://www.instagram.com/indianoilcorp" target="_blank" class="u-instagram" title="Instagram"></a>
+                     </li>
+                     <li class="screen-render-access"><a href="/reader.aspx"><img src="/images/icon/screen-icon.png" alt="Screen Reader Access">Screen Reader Access</a></li>
+                     <li>
+                        <ul class="colortheme">
+                           <li class="color-themes">Color Themes</li>
+                           <li class="colortheme" data-theme="none">
+                              <div class="colortheme white"></div>
+                              <div class="colortheme grey"></div>
+                           </li>
+                           <li class="colortheme" data-theme="yellowgreen">
+                              <div class="colortheme yellow"></div>
+                              <div class="colortheme green"></div>
+                           </li>
+                           <li class="colortheme" data-theme="yellowblue">
+                              <div class="colortheme yellow"></div>
+                              <div class="colortheme blue"></div>
+                           </li>
+                           <li class="colortheme" data-theme="orangered">
+                              <div class="colortheme orange"></div>
+                              <div class="colortheme red"></div>
+                           </li>
+                           <li class="colortheme" data-theme="blueyellow">
+                              <div class="colortheme blue"></div>
+                              <div class="colortheme yellow"></div>
+                           </li>
+                           <li class="cl"></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <ul class="font-inc-dec">
+                           <li class="a-sign"><a href="javascript:changeTextSize('small')">A-</a></li>
+                           <li class="alphabet"><a href="JavaScript:location.reload(true)">A</a></li>
+                           <li class="a-sign a-plus"><a href="javascript:changeTextSize('large')">A+</a></li>
+                           <li class="cl"></li>
+                        </ul>
+                        <a href="http://spandan.indianoil.co.in/SBA/" target="_blank"><img  src="../images/sba-e.gif" alt="SBA" title="SBA"/></a>
+                     </li>
+                     <li><a href="http://india.gov.in/"  target="_blank"><img  src="../images/india_gov_in.png" alt="National_portal" /></a><a href="http://hindi.iocl.com" target="_blank"><img src="/images/icon/hindi-nav.png" alt="Hindi"></a></li>
+                  </ul>
+                  <!-- eof Added On: August 07, 2015  -->
+                  <input type="text" class="text-field" id="q" name="q" placeholder="Search" autocomplete="off"/>
+                  <div class="cl"></div>
+               </div>
+            </div>
+            <!--  eof navigation  -->
+         </div>
+      </div>
+      <div id="MainContent">
+         <!-- Container  -->
+         <div class="container">
+            <!-- Main Body -->
+            <div id="main-body">
+               <!-- Bread Crumb -->
+               <div id="breadcrumb">
+                  <div class="content">
+                     <ul>
+                        <li>IndianOil for Motorists</li>
+                        <li>Diesel/Gasoil</li>
+                        <li class="cl"></li>
+                     </ul>
+                  </div>
+               </div>
+               <!-- eof Bread Crumb -->
+               <div class="cl"></div>
+               <!--  Inner Main  -->
+               <div class="inner-main">
+                  <div class="content">
+                     <img src="/images/NewImages/new/disel_pump.jpg" class="lazyLoad" width="100%" alt="diesel_pump" title="Diesel pump"><br/><br/>
+                     <!-- Page Title -->
+                     <h1 class="inner">Diesel/Gasoil</h1>
+                     <!-- eof Page Title -->
+                     <div class="right-menu11">
+                        <script type="text/javascript" src="/js/jQuery/jquery-2.1.4.min.js"></script>
+                        <style>
+                           #ULSUPPORT {display:block;}
+                           #ULCONT {display:block;}
+                           #ULWAL {display:block;}
+                           #ULMOT {display:block;}
+                           @media only screen and (max-width: 900px){
+                           #ULWAL {display:none;}
+                           #ULCONT {display:none;}
+                           #ULSUPPORT {display:none;}
+                           #ULMOT {display:none;}
+                           }
+                        </style>
+                        <script type="text/javascript">
+                           var url = window.location.pathname;
+                           var myPageName = url.substring(url.lastIndexOf('/') + 1);
+
+                           //////////////////////////////////////////////////////////////
+
+
+
+                           $(document).ready(function() {
+                               // run test on initial page load
+                               checkSize();
+
+                               // run test on resize of the window
+                               $(window).resize(checkSize);
+                           });
+
+                           //Function to the css rule
+                           function checkSize() {
+
+
+                              // alert('okkomm');
+                               if ($("#ULWAL").css("display") == "block") {
+                                  // alert('omm1');
+                                //   $("#ULWAL").css("display", "none");
+                                   // your code here
+                               }
+                               else {
+                                 // alert('omm2');
+
+                               }
+                               if ($("#ULCONT").css("display") == "block") {
+                                 //  alert('omm1');
+                                   //   $("#ULWAL").css("display", "none");
+                                   // your code here
+                               }
+                               else {
+                                  //  alert('omm2');
+
+                                }
+                                if ($("#ULSUPPORT").css("display") == "block") {
+                                   // alert('omm1');
+                                    //   $("#ULWAL").css("display", "none");
+                                    // your code here
+                                }
+                                else {
+                                  //  alert('omm2');
+
+                                }
+                                if ($("#ULMOT").css("display") == "block") {
+                                    // alert('omm1');
+                                    //   $("#ULWAL").css("display", "none");
+                                    // your code here
+                                }
+                                else {
+                                    //  alert('omm2');
+
+                                }
+                           }
+
+
+                           // alert(myPageName);
+                           $(document).ready(function() {
+                           $("#AUTOFAQ1").css("display", "none");
+                           $("#AUTOFAQ2").css("display", "none");
+                           $("#MLG1").css("display", "none");
+                           $("#MLG2").css("display", "none");
+                           $("#MLG3").css("display", "none");
+                           $("#ONLYMOTOLUB").css("display", "none");
+                           $("#ONLYMOTOLUB1").css("display", "none");
+                           $("#PDFdb").css("display", "none");
+                           $("#AUTOFdb").css("display", "none");
+                           $("#MOTOLUBSFdb").css("display", "none");
+                           $("#PDCONT").css("display", "none");
+                           $("#PDCONT2").css("display", "none");
+                           $("#LYLTCONT").css("display", "none");
+                           $("#LYLTCONT2").css("display", "none");
+                           $("#MOTOFAQ").css("display", "none");
+                           $("#LOYLTYFdb").css("display", "none");
+                           $("#AUTOCONT").css("display", "none");
+                           $("#PDFAQ").css("display", "none");
+                           // $("#WAL").css("display", "none");
+                           //  $("#ULWAL").css("display", "block");
+                           // $("#SUPORT").css("display", "none");
+                           //  $("#ULSUPPORT").css("display", "block");
+                           });
+                           if (myPageName == 'Gasoline.aspx') {
+                               $(document).ready(function() {
+
+                                   $("#GAS").css("display", "none");
+                                   $("#PDFdb").css("display", "block");
+                                   $("#PDCONT").css("display", "block");
+                                   $("#PDCONT2").css("display", "block");
+                                   $("#PDFAQ").css("display", "block");
+                              //    $("#ULWAL").css("display", "block");
+                                //  $("#ULSUPPORT").css("display", "block");
+                               });
+                           }
+                           if (myPageName == 'HighSpeedDiesel.aspx') {
+                               $(document).ready(function() {
+
+                                   $("#VR").css("display", "none");
+                                 $("#PDFdb").css("display", "block");
+                                   $("#PDCONT").css("display", "block");
+                                   $("#PDCONT2").css("display", "block");
+                                   $("#PDFAQ").css("display", "block");
+                                //  $("#ULWAL").css("display", "block");
+                                 //  $("#ULSUPPORT").css("display", "block");
+
+
+                               });
+                           }
+                           if (myPageName == 'MotoristLubesGreases.aspx') {
+                               $(document).ready(function() {
+                               $("#MLG1").css("display", "block");
+                               $("#MLG2").css("display", "block");
+                               $("#MLG3").css("display", "block");
+                               $("#ONLYMOTOLUB").css("display", "block");
+
+                               $("#MOTOLUBSFdb").css("display", "block");
+                               $("#MOTOFAQ").css("display", "block");
+                               $("#IP").css("display", "none");
+                           //    $("#ULWAL").css("display", "none");
+                               $("#ULSUPPORT").css("display", "none");
+
+                               });
+                           }
+                           if (myPageName == 'AutoGas.aspx') {
+                               $(document).ready(function() {
+                               $("#AUTOFAQ1").css("display", "block");
+                               $("#AUTOFAQ2").css("display", "block");
+                               $("#AUTOFdb").css("display", "block");
+                                   $("#IC").css("display", "none");
+                                   $("#AUTOCONT").css("display", "block");
+
+                               });
+                           }
+                           if (myPageName == 'TestFuelSamples.aspx') {
+                               $(document).ready(function() {
+                               $("#SN").css("display", "none");
+                               $("#SUPORT").css("display", "none");
+                               $("#WAL").css("display", "none");
+                               $("#CONTACTUS").css("display", "none");
+
+                               });
+                           }
+                           if (myPageName == 'MotoristsLoyalityProgrammes.aspx') {
+                               $(document).ready(function() {
+                               $("#LYLTCONT").css("display", "block");
+                               $("#LYLTCONT2").css("display", "block");
+                               $("#LOYLTYFdb").css("display", "block");
+                               $("#SUPORT").css("display", "none");
+                               $("#DDD").css("display", "none");
+                               $("#ULWAL").css("display", "none");
+                               $("#ULSUPPORT").css("display", "none");
+                               $("#ULMOT").css("display", "none");
+                               });
+                           }
+                        </script>
+                        <div class="right-menu">
+                           <div id="CONTACTUS" class="menu-heading">Contact Us<a id="collapse-menu"></a></div>
+                           <ul class="menu-list" id="ULCONT">
+                              <li id="PDCONT" style="color:#686868" >For Retail Sales<br /><br />D. K. Sharma <br />Executive Director<br /> (Retail Sales),<br />
+                                 IndianOil Bhavan,<br />G-9, Ali Yavar Jung Marg,<br />Bandra (East), Mumbai <br />Tel: 022-29703051<br />Email: dsharma@indianoil.in
+                              </li>
+                              <li id="PDCONT2" style="color:#686868" >For Consumer Sales<br /><br />C. S. Shankar<br />
+                                 Executive Director <br />(Consumer Sales),<br />IndianOil Bhavan,<br />G-9, Ali Yavar Jung Marg,<br />
+                                 Bandra (East), Mumbai <br />Tel: 022-26524718<br />Email:shankar@indianoil.in
+                              </li>
+                              <li id="AUTOCONT" style="color:#686868" >Y. K. Gupta<br />Executive Director (LPG) <br />IndianOil Bhavan <br />
+                                 G-9, Ali Yavar Jung Marg<br /> Bandra (East), Mumbai <br />Tel: 022-26421845 <br />Email:<br />yashvirgupta@indianoil.in
+                              </li>
+                              <li id="MLG1" style="color:#686868" >For Business Enquiries<br /><br />
+                                 D.Bhattacharjee<br />DGM ( Retail Lube Sales)<br />IndianOil Bhavan<br />G-9 Ali Yavar Jung Marg<br />Bandra (East), Mumbai<br />
+                                 Tel: 022-26447553<br />Email:<br />debabratab@indianoil.in
+                              </li>
+                              <li id="MLG2" style="color:#686868" >For Technical Enquiries<br /><br />Amitabh Akhauri <br />GM (Technical Services)<br />
+                                 Indian Oil Corporation Limited<br />IndianOil Bhavan<br />G-9 Ali Yavar Jung Marg<br /> Bandra (East), Mumbai <br />
+                                 Tel: 022-26447121 <br />Email:aakhauri@indianoil.in
+                              </li>
+                              <li id="MLG3" style="color:#686868" >For Exports<br /><br />Girish Jain<br />Ch. Manager (Lube Exports)<br />
+                                 Indian Oil Corporation Limited <br />G-9 Ali Yavar Jung Marg<br />Bandra (East), Mumbai <br />Tel: 022-26447283<br />
+                                 Email:girishjain@indianoil.in
+                              </li>
+                              <li id="LYLTCONT" style="color:#686868" ><a href="http://www.iocxtrapower.com/" target="_blank">XtraPower Fleet Card</a></li>
+                              <li id="LYLTCONT2" style="color:#686868" ><a href="http://www.xtrarewards.com/" target="_blank">XtraRewards Card</a></li>
+                           </ul>
+                           <div id="WAL" class="menu-heading">We Are Listening<a id="id="collapse-menu1"></a></div>
+                           <ul id="ULWAL" class="menu-list">
+                              <li id="PDFdb" ><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=3" target="_blank">Feedback & Suggestion </a> </li>
+                              <li id="AUTOFdb" ><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=2" target="_blank">Feedback & Suggestion </a> </li>
+                              <li id="MOTOLUBSFdb" ><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=6" target="_blank">Feedback & Suggestion </a> </li>
+                              <li id="LOYLTYFdb" ><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=1" target="_blank">Feedback & Suggestion </a> </li>
+                           </ul>
+                           <div id="SUPORT" class="menu-heading">Supports<a id="collapse-menu2"></a></div>
+                           <ul  id="ULSUPPORT" class="menu-list">
+                              <li id="PDFAQ" ><a href="#" onclick="window.open('../Htm/IndustrialConsumersFAQ.htm', 'EANITHING','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Frequently Asked Questions </a> </li>
+                              <li id="AUTOFAQ1" ><a href="https://indane.co.in/aldsmap.php" target="_blank">Auto LPG station </a> </li>
+                              <li id="AUTOFAQ2" ><a href="#" onclick="window.open('../Htm/AutoLPGFAQ.htm', 'EANITHING','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Frequently Asked Questions </a>  </li>
+                              <li id="MOTOFAQ" ><a href="#" onclick="window.open('../Htm/LubesGreasesFAQ.htm', 'EANITHING','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Frequently Asked Questions </a>  </li>
+                           </ul>
+                           <div class="menu-heading">IndianOil for Motorists<a id="collapse-menu3" ></a></div>
+                           <ul id="ULMOT"  class="menu-list">
+                              <li id="GAS"><a   href="../Products/Gasoline.aspx">Petrol/Gasoline</a></li>
+                              <li id="VR"><a   href="../Products/HighSpeedDiesel.aspx">Diesel/Gasoil</a></li>
+                              <li id="IP"><a   href="../Products/MotoristLubesGreases.aspx"><i>SERVO</i> Lubes & Greases</a></li>
+                              <li id="IC"><a   href="../Products/AutoGas.aspx">AutoGas</a></li>
+                              <li id="SN"><a   href="../Interface/TestFuelSamples.aspx">Test Fuel Samples</a></li>
+                              <li><a   href="https://associates.indianoil.co.in/PumpLocator/" target="_blank" >Petrol Pump Locator</a></li>
+                              <li id="DDD"><a   href="../Services/MotoristsLoyalityProgrammes.aspx">Loyalty Programmes</a></li>
+                           </ul>
+                           <div id="ONLYMOTOLUB" class="menu-heading">Lubes & Greases<a id="A1" ></a></div>
+                           <ul  id="ONLYMOTOLUB1" style="display:block;" class="menu-list">
+                              <li><a href="../Products/AutomotiveGreases.aspx">Automotive Greases</a></li>
+                              <li><a href="../Products/AutomotiveLubricatingOils.aspx">Automotive Lubricating Oils</a> </li>
+                              <li><a href="../Products/AutomotiveSpecialityOils.aspx">Automotive Speciality Oils</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="inner-content">
+                        <!-- Indane Gas -->
+                        <p >
+                        <ul class="gallery clearfix image-right">
+                           <li class="gallery-section">
+                              <iframe width="250" height="180" src="https://www.youtube.com/embed/z6_oFeOU9bE" frameborder="0" allowfullscreen></iframe>
+                              <div class="gallery-image-name">
+                                 <h4>IndianOil - Petroleum Product Supplier</h4>
+                              </div>
+                              <div class="cl"></div>
+                           </li>
+                        </ul>
+                        Petroleum derived diesel (called as petrodiesel) is a mixture of straight run product (150 °C and 350 °C) with varying amount of selected cracked distillates and is composed of saturated hydrocarbons (primarily paraffins including n , iso ,
+                        and cycloparaffins), and aromatic hydrocarbons (including napthalenes and alkylbenzenes).
+                        <br/><br/>
+                        Diesel is used in diesel engines, a type of internal combustion engine.
+                        Rudolf Diesel originally designed the diesel engine to use coal dust as a fuel, but oil proved more effective. Diesel engines are used in cars, motorcycles, boats and locomotives. Automotive diesel fuel serves to power trains, buses, trucks, and automobiles, to run construction, petroleum drilling and other off-road equipment and to be the prime mover in a wide range of power generation & pumping applications. The diesel engine is high compression,
+                        self-ignition engine. Fuel is ignited by the heat of high compression and no spark plug is used.
+                        <br/><br/>
+                        The Indian Standard governing the properties of diesel fuels is IS 1460:2005 (5th Rev). Important characteristics are ignition characteristics, handling at low temperature, flash point.
+                        <br/><br/>
+                        Diesel fuel often contains higher quantities of sulphur. In India , emission standards (equivalent to Euro II, Euro III, Euro IV) have necessitated oil refineries to dramatically reduce the level
+                        of sulphur in diesel in view of the auto fuel policy brought in force by Govt of India.
+                        <br/><br/>
+                        BIS has brought out specification for "Diesel with 5% Biodiesel" that may be marketed in near future.
+                        </p>
+                        <div class="cl"></div>
+                        <ul class="gallery clearfix image-left">
+                           <li>
+                              <iframe width="250" height="180" src="https://www.youtube.com/embed/2C_t89iHuak" frameborder="0" allowfullscreen></iframe>
+                              <div class="gallery-image-name">
+                                 <h4 style="text-align:center">IndianOil clarifies that it is perfectly safe<br/>to fill the fuel in vehicles to the full limit<br/>(max.) as specified by the automobile<br/>manufacturer irrespective of<br/>winter or summer. </h4>
+                              </div>
+                              <div class="cl"></div>
+                           </li>
+                        </ul>
+                        IndianOil’s XTRAMILE Super Diesel, the leader in the branded diesel segment, is blended with world-class multi-functional fuel additives. Commercial vehicle owners choose XTRAMILE because they see a clear value benefit in terms of superior mileage, lower maintenance costs and improved engine protection.
+                        A growing section of customers who own diesel automobiles, both in the 'lifestyle' and ‘passenger’ category, prefer XTRAMILE as a fuel for its added and enhanced performance. XTRAMILE has brought in a huge savings in the high mileage commercial vehicles segment. Transport fleets that
+                        operate a large number of trucks crisscrossing the country are using XTRAMILE to benefit from higher mileage and reduced maintenance costs.
+                        </p>
+                        <a href="https://associates.indianoil.co.in/PumpLocator/" target="_blank"><img height="150px" src="/images/static/ro-locator-616.jpg" class="lazyLoad" width="70%" alt="Petrol Pump Locator" title="Petrol Pump Locator"></a><br/><br/>
+                        <div class="cl"></div>
+                        <p align="justify">
+                           <strong>
+                           </strong>
+                        </p>
+                        <div class="cl"></div>
+                        <!-- eof Indane Gas -->
+                        <!--  Inner Main  -->
+                        <div class="inner-main back-gray">
+                           <div class="content_not">
+                              <div class="indiviual-product">
+                                 <div>
+                                    <div class="product-table-section">
+                                       <h4 class="inner" title="Indane">Prices of non-branded <b>Diesel</b> in metro-cities (Rs./Litre)</h4>
+                                       <div class="prod-table-top-note" style="width: 100%;">
+                                          <p >
+                                             Applicable from  6:00 a.m. on 21<sup>th</sup> June 2017
+                                          </p>
+                                       </div>
+                                       <div class="cl"></div>
+                                       <table class="wrapper-table" cellpadding="0" cellspacing="0" width="100%">
+                                          <thead>
+                                             <tr>
+                                                <td class="back-blue radius-top-left">Metros</td>
+                                                <td class="back-blue radius-top-right">Prices</td>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td colspan="2">
+                                                   <table class="product-table" cellpadding="0" cellspacing="0">
+                                                      <tr>
+                                                         <td>New Delhi</td>
+                                                         <td>53.96</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Kolkata</td>
+                                                         <td>56.12</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Mumbai</td>
+                                                         <td>59.34</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Chennai</td>
+                                                         <td>56.84</td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <br/>
+                                       *Prices may vary from Outlet to Outlet within a city.
+                                       <br/>
+                                       <div class="table-footer">
+                                          <a href="javascript:void(0)" class="previous-prices" onclick="window.open('/Product_PreviousPrice/DieselPreviousPrice.aspx', 'EANITHING','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Previous Prices
+                                          </a>
+                                       </div>
+                                    </div>
+                                    <div class="product-table-section">
+                                       <h4 class="inner" title="Indane">Prices of non-branded <b>Diesel</b> across National Capital Region (Rs./Litre)</h4>
+                                       <div class="prod-table-top-note" style="width: 100%;">
+                                          <p >
+                                             Applicable from  6:00 a.m. on 21<sup>th</sup> June 2017
+                                          </p>
+                                       </div>
+                                       <div class="cl"></div>
+                                       <table class="wrapper-table" cellpadding="0" cellspacing="0" width="100%">
+                                          <thead>
+                                             <tr>
+                                                <td class="back-blue radius-top-left">Cities</td>
+                                                <td class="back-blue radius-top-right">Prices</td>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td colspan="2">
+                                                   <table class="product-table" cellpadding="0" cellspacing="0">
+                                                      <tr>
+                                                         <td>Faridabad</td>
+                                                         <td>54.50</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Gurgaon</td>
+                                                         <td>54.27</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Noida</td>
+                                                         <td>55.64</td>
+                                                      </tr>
+                                                      <tr>
+                                                         <td>Ghaziabad</td>
+                                                         <td>55.52</td>
+                                                      </tr>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <br/>
+                                       *Prices may vary from Outlet to Outlet within a city.
+                                       <br/>
+                                    </div>
+                                    <div class="cl"></div>
+                                    <!-- Product -->
+                                    <div class="product-table-section">
+                                       <h4 class="inner" title="Subsidised diesel">Prices of non-branded <b>Diesel</b>  across state capitals (Rs./Litre)
+                                       </h4>
+                                       <div class="prod-table-top-note" style="width: 100%;">
+                                          <p>
+                                             Applicable from  6:00 a.m. on 21<sup>th</sup> June 2017
+                                          </p>
+                                       </div>
+                                       <div class="cl"></div>
+                                       <table class="wrapper-table" cellpadding="0" cellspacing="0" width="100%">
+                                          <thead>
+                                             <tr>
+                                                <td class="back-blue radius-top-left">State Capitals</td>
+                                                <td class="back-blue radius-top-right">Prices</td>
+                                             </tr>
+                                          </thead>
+                                          <tbody>
+                                             <tr>
+                                                <td colspan="2">
+                                                   <div class="tableScroll">
+                                                      <table class="product-table" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                                         <tr>
+                                                            <td>Agartala</td>
+                                                            <td>52.29</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Aizwal</td>
+                                                            <td>51.68</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Ambala</td>
+                                                            <td>53.87</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Bangalore</td>
+                                                            <td>57.56</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Bhopal</td>
+                                                            <td>60.96</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Bhubhaneswar</td>
+                                                            <td>58.69</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Chandigarh</td>
+                                                            <td>54.77</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Dehradun</td>
+                                                            <td>55.82</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Gandhinagar</td>
+                                                            <td>60.03</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Gangtok</td>
+                                                            <td>55.85</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Guwahati</td>
+                                                            <td>56.82</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Hyderabad</td>
+                                                            <td>58.72</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Imphal</td>
+                                                            <td>52.36</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Itanagar</td>
+                                                            <td>51.72</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Jaipur</td>
+                                                            <td>57.89</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Jammu</td>
+                                                            <td>55.16</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Jullunder</td>
+                                                            <td>54.16</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Kohima</td>
+                                                            <td>52.59</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Lucknow</td>
+                                                            <td>55.61</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Panjim</td>
+                                                            <td>56.32</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Patna</td>
+                                                            <td>57.45</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Pondichery</td>
+                                                            <td>55.71</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Port Blair</td>
+                                                            <td>50.88</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Raipur</td>
+                                                            <td>59.03</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Ranchi</td>
+                                                            <td>57.26</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Shillong</td>
+                                                            <td>53.77</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Shimla</td>
+                                                            <td>54.34</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Srinagar</td>
+                                                            <td>57.44</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Trivandrum</td>
+                                                            <td>58.99</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Silvasa</td>
+                                                            <td>62.97</td>
+                                                         </tr>
+                                                         <tr>
+                                                            <td>Daman</td>
+                                                            <td>62.85</td>
+                                                         </tr>
+                                                      </table>
+                                                   </div>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <br/>
+                                       *Prices may vary from Outlet to Outlet within a city.<br/>
+                                    </div>
+                                    <!--  eof Product  other section -->
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="cl"></div>
+                        <p style="text-align:left; color:#fff;"><a class="btn" href="../uploads/priceBuildup/PPAC-HSD-21-6-17.pdf" target="_blank" >Price build up of HSD</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- eof Main Body -->
+         <div id="contactUs">
+            <div class="content marT30 contactUsContent">
+               <div class="links link-collapse" id="contact-link-2">
+                  <div id="link-plus-icon-2" class="link-plus-icon"></div>
+                  <div id="link-minus-icon-2"  class="link-minus-icon"></div>
+                  <div id="link-icon-5" class="link-icon"></div>
+                  <div id="collapse-text-2" class="collapse-text">Specifications</div>
+                  <div class="expand-sec">
+                     <div class="expand-icon" id="expand-icon-2"></div>
+                     <h3>Specifications</h3>
+                     <ul>
+                        <li><a href="../products/DieselSpecifications.pdf" target="_blank">Download Pdf</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="links link-collapse" id="contact-link-4">
+                  <div id="link-plus-icon-4" class="link-plus-icon"></div>
+                  <div id="link-minus-icon-4"  class="link-minus-icon"></div>
+                  <div id="link-icon-1" class="link-icon"></div>
+                  <div id="collapse-text-4" class="collapse-text">Quick Links</div>
+                  <div >
+                     <div class="expand-icon" id="expand-icon-4"></div>
+                     <h3>Quick Links</h3>
+                     <ul>
+                        <li><a href="http://www.iocxtrapower.com" target="_blank">www.iocxtrapower.com</a></li>
+                        <li><a href="https://www.xtrarewards.com" target="_blank"> www.xtrarewards.com</a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- Footer-->
+         <!-- eof Footer-->
+         <div class="cl"></div>
+      </div>
+      </div>
+      <div>
+         <div id="footer">
+            <div class="content">
+               <!-- footer top-->
+               <div class="footer-social-icons">
+                  <h3>Connect with IndianOil</h3>
+                  <div class="iocl-footer-social">
+                     <a href="https://www.facebook.com/IndianOilCorpLimited" target="_blank" class="u-fb" title="Facebook"></a>
+                     <a href="https://twitter.com/indianOilcl" target="_blank" class="u-twitter" title="Twitter"></a>
+                     <a href="https://www.youtube.com/channel/UC5ho18VZHwEFSahW0Q_o-6g/feed" target="_blank" class="u-youtube" title="Youtube"></a>
+                     <a href="https://play.google.com/store/apps/developer?id=Indian%20Oil%20Corporation%20Ltd.&hl=en" target="_blank" class="u-googleplay" title="Google Play"></a>
+                     <a href="http://www.instagram.com/indianoilcorp" target="_blank" class="u-instagram" title="Instagram"></a>
+                  </div>
+                  <div class="cl"></div>
+               </div>
+               <div id="footer-navigation">
+                  <div class="footer-section">
+                     <h3>About Us</h3>
+                     <ul>
+                        <li><a href="/aboutus/profile.aspx" title="Who we are">Who we are</a></li>
+                        <li><a href="../AboutUs/Vision.aspx" title="Our Vision & Purpose">Our Vision & Purpose</a></li>
+                        <li><a href="../AboutUs/Business.aspx" title="Our Business">Our Business</a></li>
+                        <li><a href="../AboutUs/Majorprojects.aspx" title="Our Major Projects">Our Major Projects</a></li>
+                        <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                        <li><a href="../AboutUs/GroupCompanies_JVs.aspx" title="Our Group Companies & JVs">Our Group Companies & JVs </a>
+                        </li>
+                        <li><a href="../AboutUs/MajorUnits.aspx" title="Our Locations">Our Locations</a></li>
+                        <li><a href="../AboutUs/Management.aspx" title="Our Leadership">Our Leadership</a></li>
+                        <li><a href="../HistoryofIndianOil/OurHistory.html" title="Our History" target="_blank">Our History</a></li>
+                     </ul>
+                     <h3>IndianOil for Motorists</h3>
+                     <ul>
+                        <li><a href="../Products/Gasoline.aspx" title="Petrol / Gasoline">Petrol/Gasoline</a></li>
+                        <li><a href="../Products/HighSpeedDiesel.aspx" title="Diesel / Gasoil">Diesel/Gasoil</a></li>
+                        <li><a href="../Products/MotoristLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a></li>
+                        <li><a href="../Products/AutoGas.aspx" title="Auto Gas">AutoGas</a></li>
+                        <li><a href="../Interface/TestFuelSamples.aspx" title="Test Fuel Samples">Test Fuel Samples</a></li>
+                        <li><a href="https://associates.indianoil.co.in/PumpLocator/" target="_blank" title="Petrol Pump Locator">Petrol Pump Locator</a></li>
+                        <li><a href="../Services/MotoristsLoyalityProgrammes.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                     </ul>
+                     <h3>IndianOil for Households</h3>
+                     <ul>
+                        <li><a href="../Products/Indanegas.aspx" title="Indane Cooking Gas">Indane Cooking Gas</a></li>
+                        <li><a href="../Products/SuperiorKeroseneOil.aspx" title="Kerosene">Kerosene</a></li>
+                        <li><a href="../Services/LPGServices.aspx" title="LPG Services">LPG Services</a></li>
+                        <li><a href="http://www.givitup.in/"  target="_blank" title="Say No to LPG Subsidy">Say No to LPG Subsidy</a></li>
+                     </ul>
+                  </div>
+                  <div class="footer-section">
+                     <h3>IndianOil for Businesses</h3>
+                     <ul>
+                        <li><a href="../Products/BulkIndustrialFuel.aspx" title="Bulk / Industrial Fuels">Bulk / Industrial Fuels</a></li>
+                        <li><a href="../Products/AviationTurbineFuel.aspx" title="Aviation Fuel">Aviation Fuel</a></li>
+                        <li><a href="../Products/Marinefuels.aspx" title="Marine Oils">Marine Oils</a></li>
+                        <li><a href="../Products/Bitumen.aspx" title="Bitumen">Bitumen</a></li>
+                        <li><a href="../Products/BusinessLubesGreases.aspx" title="SERVO Lubes & Greases"><i>SERVO</i> Lubes & Greases</a></li>
+                        <li><a href="../Services/marketingtotalFuel.aspx" title="Fuel Mgmt / Consumer Pumps">Fuel Mgmt / Consumer Pumps</a></li>
+                        <li><a href="../Services/MarketingCommercialLPG.aspx" title="Commercial / Reticulated LPG">Commercial / Reticulated LPG</a></li>
+                        <li><a href="../Services/MarketingLPGBusiness.aspx" title="Non-Fuel Alliances">Non-Fuel Alliances</a></li>
+                        <li><a href="../Services/MarketingLoyaltyPrograms.aspx" title="Loyalty Programmes">Loyalty Programmes</a></li>
+                        <li><a href="../Products/NaturalGas.aspx" title="Natural Gas">Natural Gas</a></li>
+                        <li><a href="../Products/PetrochemicalsSpecialities.aspx" title="Petrochemicals">Petrochemicals</a></li>
+                        <li><a href="../Products/SpecialProducts.aspx" title="Special Products">Special Products</a></li>
+                        <li><a href="../Products/IndaneNanocut.aspx" title="Indane NANOCUT">Indane NANOCUT</a></li>
+                        <li><a href="../Products/Cryogenics.aspx" title="Cryogenics">Cryogenics</a></li>
+                        <li><a href="../Products/Non-PDSSuperiorKeroseneOil.aspx" title="Non-PDS">Non-PDS Superior Kerosene Oil</a></li>
+                        <li><a href="../Products/Explosives.aspx" title="Explosives">Explosives</a></li>
+                        <li><a href="../Services/Consultancy.aspx" title="Consultancy">Consultancy</a></li>
+                     </ul>
+                     <h3>IndianOil for Society</h3>
+                     <ul>
+                        <li><a href="../AboutUs/corporatesocialresponsibility.aspx" title="IndianOil for Community (CSR)">IndianOil for Community (CSR)</a></li>
+                        <li><a href="../AboutUs/WeSupport.aspx" title="We support">We Support</a></li>
+                        <li><a href="../AboutUs/AcademicScholarships.aspx" title="IndianOil Academic Scholarships">IndianOil Academic Scholarships</a>
+                        </li>
+                        <li><a href="../AboutUs/SportsScholarships.aspx" title="IndianOil Sports Scholarships">IndianOil Sports Scholarships</a></li>
+                        <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                        <li><a href="../AboutUs/IndianOilFoundation.aspx" title="IndianOil Foundation">The IndianOil Foundation</a></li>
+                        <li><a href="http://indianoilstartupfund.in/Default.aspx" target="_blank" title="IndianOil Start-up Fund">IndianOil Start-up Fund</a></li>
+                     </ul>
+                  </div>
+                  <div class="footer-section">
+                     <h3>IndianOil for Suppliers</h3>
+                     <ul>
+                        <li><a href="../Talktous/VendorRegistration.aspx" title="Vendor Registration">Vendor Registration</a></li>
+                        <li><a href="../Public-Procurement-for-Micro-and-Small-Enterprises-Target.aspx" title="Procurement from MSEs">Procurement from MSEs</a></li>
+                        <li><a href="../Talktous/IntPact.aspx" title="Integrity Pact">Integrity Pact</a></li>
+                        <li><a href="https://spandan.indianoil.co.in/BPSP/RoKskLinkPage_COIS.jsp?LOCATION_TYPE=LPG&DOC=50" target="_blank" title="Reports on Purchase / Work Order">Reports on Purchase / Work Order</a></li>
+                        <li><a href="../Talktous/conciliation.aspx" title="IndianOil Conciliation Rules, 2014">IndianOil Conciliation Rules, 2014</a></li>
+                        <li><a href="https://iocletenders.gov.in/" target="_blank" title="Tender">Tenders</a></li>
+                        <li><a href="../Talktous/SupplierNotices.aspx" title="Notices">Notices</a></li>
+                     </ul>
+                     <h3>IndianOil for Business Partners</h3>
+                     <ul>
+                        <li><a href="../Talktous/RO_Guidelines.aspx" title="RO / KSK Dealerships">RO / KSK Dealerships</a></li>
+                        <li><a href="../Talktous/LPG_Guidelines.aspx" title="LPG Distributorships">LPG Distributorships</a></li>
+                        <li><a href="../Talktous/CoCos-Service-Provider.aspx" title="COCO Divestment and Service Provider">COCO Divestment and Service Provider</a></li>
+                        <li><a href="../Talktous/Polymer_Dealers.aspx" title="Polymer Dealers">Polymer Dealers</a></li>
+                        <li><a href="../Talktous/Marketing_Discipline_Guidelines.aspx" title="Marketing Discipline Guidelines">Marketing Discipline Guidelines</a></li>
+                     </ul>
+                     <!-- Investors -->
+                     <a href="/InvestorCenter/InvestorCenter.aspx">
+                        <h3>IndianOil for Investors</h3>
+                     </a>
+                     <ul>
+                        <li><a href="../InvestorCenter/IEPF.aspx" title="Transfer of shares to IEPF" target="_self">Transfer of shares to IEPF</a></li>
+                        <li><a href="../InvestorCenter/Board-Committees(2016-06-28).pdf" title="Committees of the Board" target="_blank">Committees of the Board</a></li>
+                        <li><a href="../InvestorCenter/IndependentDirectors.pdf" title="Terms and Conditions " target="_blank">T&C of Appointment of Ind. Directors</a></li>
+                        <li><a href="../download/IDFP.pdf" title="Terms and Conditions " target="_blank">Familiarisation program for Independent Directors</a></li>
+                        <li><a href="../InvestorCenter/IntimationStockExchange.aspx" title="Stock Price">Intimation To Stock Exchanges</a></li>
+                        <li><a href="../InvestorCenter/stock_prices.aspx" title="Stock Price">Stock Price</a></li>
+                        <li><a href="../InvestorCenter/ShareholdingPattern.aspx" title="Shareholding Pattern">Shareholding Pattern</a></li>
+                        <li><a href="../AboutUs/FinancialPerformance.aspx" title="Financial Performance">Financial Performance</a></li>
+                        <li><a href="../Talktous/CorporateGovernance.aspx" title="Corporate Governance">Corporate Governance</a></li>
+                        <li><a href="../download/Chairman-Message-57th-AGM-2016.pdf" target="_blank" title="Chairman’s AGM Address">Chairman’s AGM Address 2016</a></li>
+                        <li><a href="../InvestorCenter/roadshow_presentation.aspx" title="Presentation To Analyst / Bankers">Presentation To Analysts / Investors</a></li>
+                        <li><a href="../InvestorCenter/Dividend_Information.aspx" title="Dividend Information">Dividend Information</a></li>
+                        <li><a href="../InvestorCenter/Notices.aspx" title="Notices">Notices</a></li>
+                        <li><a href="../InvestorCenter/Policies.aspx" title="Policies">Policies</a></li>
+                     </ul>
+                  </div>
+                  <div class="footer-section">
+                     <h3>IndianOil Overseas</h3>
+                     <ul>
+                        <li><a href="../AboutUs/GroupCompanies(LIOC).aspx" title="Lanka IOC PLC">Lanka IOC PLC</a></li>
+                        <li><a href="../AboutUs/GroupCompanies(Mauritius).aspx" title="IndianOil (Mauritius) Ltd.">IndianOil (Mauritius) Ltd.</a></li>
+                        <li><a href="../AboutUs/GroupCompanies(MiddleEast).aspx" title="IOC Middle East FZE">IOC Middle East FZE</a></li>
+                     </ul>
+                     <h3>IndianOil for Media</h3>
+                     <ul>
+                        <li><a href="../aboutus/Press_release.aspx" title="IndianOil in Media">News Releases</a></li>
+                        <li><a href="../aboutus/Indianoil_in_media.aspx" title="IndianOil in Media">IndianOil in Media</a></li>
+                        <li><a href="../MediaCenter/publications.aspx" title="Product Prices">Publications</a></li>
+                        <li><a href="../TotalProductList.aspx" title="Product Prices">Product Prices</a></li>
+                     </ul>
+                     <h3>IndianOil for Careers</h3>
+                     <ul>
+                        <li><a href="../PeopleCareers/Careers.aspx" title="Careers">Careers</a></li>
+                        <li><a href="../PeopleCareers/job.aspx" title="Latest Job Openings">Latest Job Openings</a></li>
+                        <li><a href="../IndianOilInternship.aspx" title="IndianOil Internships">Internships</a></li>
+                     </ul>
+                     <h3>IndianOil for Environment</h3>
+                     <ul>
+                        <li><a href="../AboutUs/Environment.aspx" title="IndianOil’s Green Agenda">IndianOil’s Green Agenda</a></li>
+                        <li><a href="../AboutUs/sustainability.aspx" title="Sustainability">Sustainability</a></li>
+                        <li><a href="../AboutUs/Environment(SHE).aspx" title="H,S&E Overview">H,S&E Overview</a></li>
+                        <li><a href="../AboutUs/environment(GFA).aspx" title="Green Fuel Alternatives">Green Fuel Alternatives</a></li>
+                     </ul>
+                     <h3>We are Listening</h3>
+                     <ul>
+                        <li><a href="../Aboutus/help.aspx" target="_self" title="Help">Help</a></li>
+                        <li><a href="https://spandan.indianoil.co.in/DBTLGrievance/" target="_blank" title="PaHal-Related Queries">PaHal-Related Queries</a></li>
+                        <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=2" target="_blank" title="Other LPG Queries">Other LPG Queries</a></li>
+                        <li><a href="https://spandan.indianoil.co.in/paribhavam/?toMktgIS=3" target="_blank"  title="Queries on Fuel Nations">Queries on Fuel Stations</a></li>
+                        <li><a href="../VigilanceInquiry.aspx" title="Vigilance Queries">Vigilance Queries</a></li>
+                        <li><a href="../Talktous/right-to-information.aspx" title="Right To Information">Right To Information</a></li>
+                        <li><a href="../Talktous/CitizensCharter.aspx" title="Citizen Charter">Citizen Charter</a></li>
+                        <li><a href="../Talktous/SNotices.aspx" title="Statutary Notices">Statutory Notices</a></li>
+                     </ul>
+                     <h3><a href="/AboutUs/contacts.aspx">Contact Us</a></h3>
+                  </div>
+                  <div class="cl"></div>
+               </div>
+            </div>
+            <div class="footerbtm">
+               <div class="blank">
+               </div>
+               <div class="footertxt">
+                  <div style="width:auto">
+                     Copyright &copy; Indian Oil Corporation Ltd  <span style="color:#ffffff ; background-color: #EE7D3F"></span>
+                     <div class="subfootertxt">
+                        <div><a href="../sitemap.aspx">SiteMap</a></div>
+                        <div><a href="javascript:void(0)" onclick="window.open('/Htm/termsofuse.htm', 'EANITHING','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Terms of Use</a></div>
+                        <div><a href="javascript:void(0)" onclick="window.open('/Htm/PrivacyPolicy.htm', 'EANITHING1','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Privacy Policy</a></div>
+                        <div><a href="javascript:void(0)" onclick="window.open('/Htm/HyperlinkingPolicy.htm', 'EANITHING1','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=No,copyhistory=no,scrollbars=no,width=540,height=660,left=200,top=20');">Hyperlinking Policy</a></div>
+                     </div>
+                  </div>
+                  <span style="color:#ffffff !important; background-color: #ffffff !important; font-size:12px !important">Powered By PhiStream Consulting Pvt Ltd </span>
+               </div>
+            </div>
+         </div>
+         <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+               m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-55584286-1', 'auto');
+            ga('send', 'pageview');
+
+         </script>
+      </div>
+   </form>
+   <!--[if lte IE 8]>
+   <link rel="stylesheet" type="text/css" href="/style/ie8.css"/>
+   <![endif]-->
+   <!--[if lte IE 8]>
+   <script type="text/javascript" src="/js/jQuery/jquery-1.11.3.min.js"></script>
+   <![endif]-->
+   <!--[if gt IE 8]><!-->
+   <script type="text/javascript" src="/js/jQuery/jquery-2.1.4.min.js"></script>
+   <!--<![endif]-->
+   <!--[if lte IE 9]>
+   <script type="text/javascript" src="/js/placeholders.js"></script>
+   <![endif]-->
+   <script type="text/javascript" src="/js/vTicker.js"></script>
+   <script type="text/javascript" src="/js/ps.js"></script>
+   <script type="text/javascript" src="/js/accordion.js"></script>
+   <script type="text/javascript" src="/js/navigation.js"></script>
+   <script type="text/javascript" src="/js/jQuery/slider/banner.js"></script>
+   <script type="text/javascript" src="/js/jQuery/slider/jssor.responsive.min.js"></script>
+   <script src="/js/jQuery/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+   <script src="/js/bootstrap.min.js" type="text/javascript" ></script>
+</body>
+</html>
