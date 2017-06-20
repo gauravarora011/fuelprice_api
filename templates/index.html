@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Daily Fuel Price</title>
+  </head>
+	<body>
+		<center>
+			<h4>
+				Check Fuel Price in India
+			</h4>
+			<select id="city_name" name="city_name">
+				{% for city in city_list %}
+				<option value="{{ city }}">
+					{{ city }}
+				</option>
+				{% endfor %}
+			</select> 
+			<select id="fuelType" name="fuelType">
+				{% for fuel in fuel_type %}
+				<option value="{{ fuel }}">
+					{{ fuel }}
+				</option>
+				{% endfor %}
+			</select><br>
+			<br>
+			<br>
+			<button>Fetch Price</button><br>
+			<br>
+			<br>
+		</center>
+	</body>
+</html>
