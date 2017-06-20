@@ -23,7 +23,3 @@ def scrap(link,fuel_type):
 def scrapper():
     for fuel,url in link.items():
         scrap(link=url,fuel_type=fuel)
-
-if __name__ == "__main__":
-    scrapper()
-    print prices
