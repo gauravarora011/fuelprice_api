@@ -37,4 +37,4 @@ def hello_world():
 
 if __name__ == "__main__":
     scrapper()
-    app.run(debug=True)
+    app.run(debug=False)
