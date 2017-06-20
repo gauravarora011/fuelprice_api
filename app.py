@@ -1,6 +1,6 @@
 from flask import Flask,jsonify,render_template
 from data import prices,fuel_type
-from Scrapper import scrapper
+from scrapper import scrapper
 
 app = Flask(__name__)
 
