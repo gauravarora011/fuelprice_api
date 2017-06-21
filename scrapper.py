@@ -21,5 +21,6 @@ def scrap(link,fuel_type):
         print "unable to fetch content from destination website"
 
 def scrapper():
+    print "call to scrapper"
     for fuel,url in link.items():
         scrap(link=url,fuel_type=fuel)
