@@ -2,20 +2,40 @@
 <html>
   <head>
     <title>Daily Fuel Price</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
+	 <script>
+	function obtain_price() {
+    $("#result").text("Attempting to obtain price");
+    jsonData = {};
+    $.ajax({
+    type: "GET",
+    dataType: "JSON",
+    data: jsonData,
+    url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
+    success: function(data){
+        $("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
+    },
+    error: function(data){
+      $("#result").text("Unable to Fetch Data !!");
+    }
+  });
+}
+	 </script>
+
   </head>
 	<body>
 		<center>
 			<h4>
 				Check Fuel Price in India
 			</h4>
-			<select id="city_name" name="city_name">
+			<select id="city" name="city">
 				{% for city in city_list %}
 				<option value="{{ city }}">
 					{{ city }}
 				</option>
 				{% endfor %}
 			</select> 
-			<select id="fuelType" name="fuelType">
+			<select id="fuel" name="fuel">
 				{% for fuel in fuel_type %}
 				<option value="{{ fuel }}">
 					{{ fuel }}
@@ -24,9 +44,10 @@
 			</select><br>
 			<br>
 			<br>
-			<button>Fetch Price</button><br>
+			<button onclick="obtain_price()">Show Price</button><br>
 			<br>
 			<br>
+			<p id = "result"> XXXX </p>
 		</center>
 	</body>
 </html>
