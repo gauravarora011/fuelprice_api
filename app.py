@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 @app.route('/v1/cities')
 def cities():
+	scrapper()
     return jsonify({'cities': prices.keys()})
 
 @app.route('/v1/fuel-types')
