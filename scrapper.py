@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 from data import link,prices
+import pickle
+import time
 
 def scrap(link,fuel_type):
     try:
@@ -17,10 +19,24 @@ def scrap(link,fuel_type):
                 if city not in prices.keys():
                     prices[city] = {}
                 prices[city][fuel_type] = price
+        with open('price_dict.pickle', 'w') as f:
+             pickle.dump([prices,time.gmtime()], f)
     except:
         print "unable to fetch content from destination website"
 
-def scrapper():
+def scrap_needed():
     print "call to scrapper"
-    for fuel,url in link.items():
-        scrap(link=url,fuel_type=fuel)
+    for fuel, url in link.items():
+        scrap(link=url, fuel_type=fuel)
+
+def scrapper():
+    global prices
+    try:
+        if prices != {}:
+            print "Prices Already Exist"
+            with open('price_dict.pickle') as f:
+                 prices,last_time = pickle.load(f)
+        else:
+            scrap_needed()
+    except:
+        scrap_needed()

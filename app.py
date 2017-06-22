@@ -11,10 +11,12 @@ def cities():
 
 @app.route('/v1/fuel-types')
 def fuel_list():
+    scrapper()
     return jsonify({'fuel-types': fuel_type})
 
 @app.route('/v1/price/<city>')
 def city_price(city):
+    scrapper()
     city = city.lower()
     if city in prices.keys():
         return jsonify({'price': prices[city.lower()]})
@@ -23,6 +25,7 @@ def city_price(city):
 
 @app.route('/v1/price/<city>/<fuel>')
 def city_fuel_price(city,fuel):
+    scrapper()
     city = city.lower()
     if fuel not in fuel_type:
         return "Fuel Type Invalid"
@@ -33,9 +36,9 @@ def city_fuel_price(city,fuel):
 
 @app.route('/')
 def hello_world():
+    scrapper()
     return render_template('index.html',city_list=prices.keys(),fuel_type=fuel_type)
     #return "Welcome"
 
 if __name__ == "__main__":
-    scrapper()
     app.run(debug=False)
