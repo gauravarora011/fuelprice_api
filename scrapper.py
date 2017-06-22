@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from data import link,prices
+import data
 import pickle
 import time
 
@@ -14,30 +14,52 @@ def scrap(link,fuel_type):
         for table in soup.find_all('table', class_="product-table"):
             for table_row  in table.find_all('tr'):
                 city,price = table_row.find_all('td')
-                city  = city.text.title()
+                city = city.text.title()
                 price = price.text
-                if city not in prices.keys():
-                    prices[city] = {}
-                prices[city][fuel_type] = price
+                if city not in data.prices.keys():
+                    data.prices[city] = {}
+                data.prices[city][fuel_type] = price
         with open('price_dict.pickle', 'w') as f:
-             pickle.dump([prices,time.gmtime()], f)
+            data.scrap_time = time.gmtime()
+            pickle.dump([data.prices,data.scrap_time], f)
     except:
         print "unable to fetch content from destination website"
 
 def scrap_needed():
     print "call to scrapper"
-    for fuel, url in link.items():
+    for fuel, url in data.link.items():
         scrap(link=url, fuel_type=fuel)
-    print prices
+
+def check_for_time(scrap_time):
+    cur_time = time.gmtime()
+    if scrap_time.tm_mday == cur_time.tm_mday:
+        if scrap_time.tm_hour == 0 and scrap_time.tm_hour <= 30:
+            if cur_time.tm_hour == 0 and cur_time.tm_hour <= 30:
+                return False
+            else:
+                return True
+        else:
+            return False
+    else:
+        if scrap_time.tm_hour == 0 and scrap_time.tm_hour <= 30:
+            return False
+        else:
+            if cur_time.tm_hour == 0 and cur_time.tm_hour <= 30:
+                return False
+            else:
+                return True
 
 def scrapper():
-    global prices
     try:
-        if prices != {}:
-            print "Prices Already Exist"
-            with open('price_dict.pickle') as f:
-                 prices,last_time = pickle.load(f)
+        if data.prices != {}:
+            if check_for_time(data.scrap_time):
+                print("exisitng prices old - scrapping again")
+                scrap_needed()
         else:
-            scrap_needed()
+            with open('price_dict.pickle') as f:
+                data.prices, data.scrap_time = pickle.load(f)
+            if check_for_time(data.scrap_time):
+                print("Loaded Prices Expired - scrapping again")
+                scrap_needed()
     except:
-        scrap_needed()
+         scrap_needed()
