@@ -14,7 +14,7 @@ def scrap(link,fuel_type):
         for table in soup.find_all('table', class_="product-table"):
             for table_row  in table.find_all('tr'):
                 city,price = table_row.find_all('td')
-                city  = city.text.lower()
+                city  = city.text.title()
                 price = price.text
                 if city not in prices.keys():
                     prices[city] = {}

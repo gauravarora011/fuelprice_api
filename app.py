@@ -26,7 +26,7 @@ def city_price(city):
 @app.route('/v1/price/<city>/<fuel>')
 def city_fuel_price(city,fuel):
     scrapper()
-    city = city.lower()
+    city = city.title()
     if fuel not in fuel_type:
         return "Fuel Type Invalid"
     if city in prices.keys():
