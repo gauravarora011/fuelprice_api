@@ -28,6 +28,7 @@ def scrap_needed():
     print "call to scrapper"
     for fuel, url in link.items():
         scrap(link=url, fuel_type=fuel)
+    print prices
 
 def scrapper():
     global prices

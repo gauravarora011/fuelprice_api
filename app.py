@@ -17,9 +17,9 @@ def fuel_list():
 @app.route('/v1/price/<city>')
 def city_price(city):
     scrapper()
-    city = city.lower()
+    city = city.title()
     if city in prices.keys():
-        return jsonify({'price': prices[city.lower()]})
+        return jsonify({'price': prices[city.title()]})
     else:
         return "city not found"
 
@@ -30,7 +30,7 @@ def city_fuel_price(city,fuel):
     if fuel not in fuel_type:
         return "Fuel Type Invalid"
     if city in prices.keys():
-        return jsonify({'price': prices[city.lower()][fuel]})
+        return jsonify({'price': prices[city.title()][fuel]})
     else:
         return "city not found"
 
