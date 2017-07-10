@@ -3,7 +3,7 @@ Get Latest fuel prices for different Indian Cities
 
 view the live version : https://dailyfuelprice.herokuapp.com/
 
-##API Endpoint :
+##API Endpoint :##
 
 Base URL: ```http://fuelpriceindia.herokuapp.com/v1```
 * GET ```/cities```
