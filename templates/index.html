@@ -29,14 +29,14 @@
 				Check Fuel Price in India
 			</h4>
 			<select id="city" name="city">
-				{% for city in city_list %}
+				{% for city in city_list | sort %}
 				<option value="{{ city }}">
 					{{ city }}
 				</option>
 				{% endfor %}
 			</select> 
 			<select id="fuel" name="fuel">
-				{% for fuel in fuel_type %}
+				{% for fuel in fuel_type | sort %}
 				<option value="{{ fuel }}">
 					{{ fuel }}
 				</option>
