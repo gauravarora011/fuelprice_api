@@ -1,53 +1,77 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Daily Fuel Price</title>
+<head>
+	<title>Daily Fuel Price</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
-	 <script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css">
+	<style>
+	.fuel {
+		max-width: 500px;
+		margin: 5% auto !important;
+	}
+</style>
+<script>
+	$("#mbox").hide();
 	function obtain_price() {
-    $("#result").text("Attempting to obtain price");
-    jsonData = {};
-    $.ajax({
-    type: "GET",
-    dataType: "JSON",
-    data: jsonData,
-    url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
-    success: function(data){
-        $("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
-    },
-    error: function(data){
-      $("#result").text("Unable to Fetch Data !!");
-    }
-  });
-}
-	 </script>
+		$("#result").text("Attempting to obtain price");
+		jsonData = {};
+		$.ajax({
+			type: "GET",
+			dataType: "JSON",
+			data: jsonData,
+			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
+			success: function(data){
+				$("#mbox").show();
+				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
+			},
+			error: function(data){
+				$("#mbox").show();
+				$("#result").text("Unable to Fetch Data !!");
+			}
+		});
+	}
+</script>
 
-  </head>
-	<body>
-		<center>
-			<h4>
+</head>
+<body>
+
+
+	<div class="ts primary card fuel">
+		<div class="content">
+			<div class="header">
 				Check Fuel Price in India
-			</h4>
-			<select id="city" name="city">
-				{% for city in city_list | sort %}
-				<option value="{{ city }}">
-					{{ city }}
-				</option>
-				{% endfor %}
-			</select> 
-			<select id="fuel" name="fuel">
-				{% for fuel in fuel_type | sort %}
-				<option value="{{ fuel }}">
-					{{ fuel }}
-				</option>
-				{% endfor %}
-			</select><br>
-			<br>
-			<br>
-			<button onclick="obtain_price()">Show Price</button><br>
-			<br>
-			<br>
-			<p id = "result"> XXXX </p>
-		</center>
-	</body>
+			</div>
+			<div class="description">
+				<div class="ts form">
+					<div class="field">
+						<select id="city" name="city">
+							{% for city in city_list | sort %}
+							<option value="{{ city }}">
+								{{ city }}
+							</option>
+							{% endfor %}
+						</select> 
+					</div>
+					<div class="field">
+						<select id="fuel" name="fuel">
+							{% for fuel in fuel_type | sort %}
+							<option value="{{ fuel }}">
+								{{ fuel }}
+							</option>
+							{% endfor %}
+						</select>
+					</div>
+					<button class="ts positive basic button" onclick="obtain_price()">Show Price</button>
+					<div class="ts positive card" id="mbox">
+						<div class="content">
+							<div class="description">
+								<p id="result">  </p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
 </html>
