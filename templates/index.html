@@ -6,14 +6,20 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css">
 	<style>
+	body {
+		padding: 15px;	
+	}
 	.fuel {
 		max-width: 500px;
 		margin: 5% auto !important;
 	}
+	.mss {
+		display: none;	
+	}
 </style>
 <script>
-	$("#mbox").hide();
 	function obtain_price() {
+		$(".mss").show();
 		$("#result").text("Attempting to obtain price");
 		jsonData = {};
 		$.ajax({
@@ -22,11 +28,9 @@
 			data: jsonData,
 			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
 			success: function(data){
-				$("#mbox").show();
 				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
 			},
 			error: function(data){
-				$("#mbox").show();
 				$("#result").text("Unable to Fetch Data !!");
 			}
 		});
@@ -46,6 +50,9 @@
 				<div class="ts form">
 					<div class="field">
 						<select id="city" name="city">
+							<option value="" disabled selected>
+								Pick a city
+							</option>
 							{% for city in city_list | sort %}
 							<option value="{{ city }}">
 								{{ city }}
@@ -55,6 +62,9 @@
 					</div>
 					<div class="field">
 						<select id="fuel" name="fuel">
+							<option value="" disabled selected>
+								Pick a fuel type
+							</option>
 							{% for fuel in fuel_type | sort %}
 							<option value="{{ fuel }}">
 								{{ fuel }}
@@ -63,11 +73,9 @@
 						</select>
 					</div>
 					<button class="ts positive basic button" onclick="obtain_price()">Show Price</button>
-					<div class="ts positive card" id="mbox">
+					<div class="ts positive card mss">
 						<div class="content">
-							<div class="description">
-								<p id="result">  </p>
-							</div>
+							<div class="description" id="result"></div>
 						</div>
 					</div>
 				</div>
