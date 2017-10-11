@@ -23,10 +23,10 @@ def scrap(link,fuel_type):
             data.scrap_time = time.gmtime()
             pickle.dump([data.prices,data.scrap_time], f)
     except:
-        print "unable to fetch content from destination website"
+        print("unable to fetch content from destination website")
 
 def scrap_needed():
-    print "call to scrapper"
+    print ("call to scrapper")
     for fuel, url in data.link.items():
         scrap(link=url, fuel_type=fuel)
 
