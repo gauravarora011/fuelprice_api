@@ -17,26 +17,6 @@
 		display: none;	
 	}
 </style>
-<script>
-	function obtain_price() {
-		$(".mss").show();
-		$("#result").text("Attempting to obtain price");
-		jsonData = {};
-		$.ajax({
-			type: "GET",
-			dataType: "JSON",
-			data: jsonData,
-			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
-			success: function(data){
-				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
-			},
-			error: function(data){
-				$("#result").text("Unable to Fetch Data !!");
-			}
-		});
-	}
-</script>
-
 </head>
 <body>
 
@@ -54,9 +34,9 @@
 								Pick a city
 							</option>
 							{% for city in city_list | sort %}
-							<option value="{{ city }}">
-								{{ city }}
-							</option>
+								<option value="{{ city }}">
+									{{ city }}
+								</option>
 							{% endfor %}
 						</select> 
 					</div>
@@ -66,14 +46,14 @@
 								Pick a fuel type
 							</option>
 							{% for fuel in fuel_type | sort %}
-							<option value="{{ fuel }}">
-								{{ fuel }}
-							</option>
+								<option value="{{ fuel }}">
+									{{ fuel }}
+								</option>
 							{% endfor %}
 						</select>
 					</div>
 					<button class="ts positive basic button" onclick="obtain_price()">Show Price</button>
-					<div class="ts positive card mss">
+					<div id="information_status" class="ts positive card mss">
 						<div class="content">
 							<div class="description" id="result"></div>
 						</div>
@@ -82,5 +62,35 @@
 			</div>
 		</div>
 	</div>
+<script>
+	$("#information_status").hide();
+	function obtain_price() {
+		$("#information_status").fadeIn();
+		$("#result").text("Attempting to obtain price");
+		jsonData = {};
+		$.ajax({
+			type: "GET",
+			dataType: "JSON",
+			data: jsonData,
+			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
+			success: function(data) {
+				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
+			},
+			error: function(data) {
+				validate_fields();
+			}
+		});
+	}
+
+	function validate_fields() {
+		var message = $("#result").text("Ups. Something wrong happen. Unable to fetch data. Try again.");
+		var city = $("#city").val();
+		var fuel = $("#fuel").val();
+		if ((city == null) || (fuel == null)) {
+			message = $("#result").text("It looks like you have not entered yet the city or the fuel type. Please do so :D");
+		}
+		return message;
+	}
+</script>
 </body>
 </html>
