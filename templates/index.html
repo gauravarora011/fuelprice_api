@@ -13,14 +13,14 @@
 		max-width: 500px;
 		margin: 5% auto !important;
 	}
-	.mss {
-		display: none;	
+	.hdr {
+		text-align: center;
 	}
 </style>
 <script>
 	function obtain_price() {
 		$(".mss").show();
-		$("#result").text("Attempting to obtain price");
+		$("#result").text("Attempting to obtain price...");
 		jsonData = {};
 		$.ajax({
 			type: "GET",
@@ -28,9 +28,11 @@
 			data: jsonData,
 			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
 			success: function(data){
+				$('.mss').addClass('positive').removeClass('negative');
 				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
 			},
 			error: function(data){
+				$('.mss').addClass('negative').removeClass('positive');
 				$("#result").text("Unable to Fetch Data !!");
 			}
 		});
@@ -43,7 +45,7 @@
 
 	<div class="ts primary card fuel">
 		<div class="content">
-			<div class="header">
+			<div class="header hdr">
 				Check Fuel Price in India
 			</div>
 			<div class="description">
@@ -73,7 +75,7 @@
 						</select>
 					</div>
 					<button class="ts positive basic button" onclick="obtain_price()">Show Price</button>
-					<div class="ts positive card mss">
+					<div class="ts card mss" style="display: none">
 						<div class="content">
 							<div class="description" id="result"></div>
 						</div>
