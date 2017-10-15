@@ -7,20 +7,41 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas-ui/2.3.3/tocas.css">
 	<style>
 	body {
+		background: #456;
+  		font-family: 'Open Sans', sans-serif;
 		padding: 15px;	
 	}
 	.fuel {
+		
 		max-width: 500px;
 		margin: 5% auto !important;
 	}
+	.content{
+		background: #ebebeb;
+	}
 	.hdr {
-		text-align: center;
+	 	padding: 20px;
+	  	font-size: 1.4em;
+	  	font-weight: normal;
+	  	text-align: center;
+	  	text-transform: uppercase;
+	  	
+	}
+	#city,#fuel{
+		border-color: #888;
+	}
+	#submit{
+		background: #28d;
+		width: 100%;
+  		border-color: transparent;
+  		color: #fff;
+  		cursor: pointer;
 	}
 </style>
 <script>
 	function obtain_price() {
 		$(".mss").show();
-		$("#result").text("Attempting to obtain price...");
+		$("#result").text("Obtaining price...");
 		jsonData = {};
 		$.ajax({
 			type: "GET",
@@ -29,11 +50,21 @@
 			url: "v1/price/"+$('#city').val()+"/"+$('#fuel').val(),
 			success: function(data){
 				$('.mss').addClass('positive').removeClass('negative');
-				$("#result").text("Latest Price for " + $('#fuel').val() + " in " + $('#city').val() + " is Rs. " + data["price"]);
+				$("#result").text("Current Price for " + $('#fuel').val() + " in " + $('#city').val() + " is ₹ " + data["price"]);
 			},
 			error: function(data){
 				$('.mss').addClass('negative').removeClass('positive');
-				$("#result").text("Unable to Fetch Data !!");
+				
+				if(!($('#fuel').val()) && !($('#city').val())){
+					$("#result").text("Unable to Fetch Data !!");
+				}
+				else if(!($('#fuel').val())){
+					$("#result").text("Fuel type not selected !!");
+				}
+				else if(!($('#city').val())){
+					$("#result").text("City not selected !!");
+				}
+				
 			}
 		});
 	}
@@ -43,17 +74,17 @@
 <body>
 
 
-	<div class="ts primary card fuel">
+	<div class="ts card fuel">
 		<div class="content">
 			<div class="header hdr">
-				Check Fuel Price in India
+				Fuel Price in India
 			</div>
 			<div class="description">
 				<div class="ts form">
 					<div class="field">
 						<select id="city" name="city">
 							<option value="" disabled selected>
-								Pick a city
+								City
 							</option>
 							{% for city in city_list | sort %}
 							<option value="{{ city }}">
@@ -65,7 +96,7 @@
 					<div class="field">
 						<select id="fuel" name="fuel">
 							<option value="" disabled selected>
-								Pick a fuel type
+								Fuel type
 							</option>
 							{% for fuel in fuel_type | sort %}
 							<option value="{{ fuel }}">
@@ -74,7 +105,7 @@
 							{% endfor %}
 						</select>
 					</div>
-					<button class="ts positive basic button" onclick="obtain_price()">Show Price</button>
+					<button id="submit" class="ts positive basic button" onclick="obtain_price()">Show Price</button>
 					<div class="ts card mss" style="display: none">
 						<div class="content">
 							<div class="description" id="result"></div>
