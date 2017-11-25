@@ -5,7 +5,7 @@ view the live version : https://dailyfuelprice.herokuapp.com/
 
 ## API Endpoint :
 
-Base URL: ```http://fuelpriceindia.herokuapp.com/v1```
+Base URL: ```http://dailyfuelprice.herokuapp.com/v1```
 * GET ```/cities```
 
 List all the possible city options
