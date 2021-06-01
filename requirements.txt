@@ -11,5 +11,5 @@ Jinja2==2.9.6
 lxml==3.8.0
 MarkupSafe==1.0
 requests==2.18.1
-urllib3==1.21.1
+urllib3==1.26.5
 Werkzeug==0.12.2
